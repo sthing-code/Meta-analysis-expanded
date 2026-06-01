@@ -30,12 +30,17 @@ set_heatmap_options()   # apply global ComplexHeatmap settings
 
 # Fixed column order: groups genes by biological function for readability
 GENE_ORDER <- c(
-  "IGFBP7", "LGALS1",                   # IGFBP7 / Galectin-1
-  "VEGFA", "MMP9",                       # Angiogenesis
-  "IL6", "STAT3",                        # JAK-STAT
-  "APC",                                 # WNT
-  "BRCA2",                               # DNA repair
-  "CTSB", "CTSD", "CTSL", "CTSS", "CTSV"  # Cathepsins
+  "IGFBP7", "LGALS1",                          # IGFBP7 / Galectin-1
+  "VEGFA", "MMP9",                              # Angiogenesis
+  "IL6", "STAT3",                               # JAK-STAT
+  "CD274",                                      # Immune checkpoint
+  "APC", "WNT3A", "TCF7", "LEF1",              # WNT
+  "BRCA2",                                      # DNA repair
+  "TP53", "ATM", "ATR", "MDM2",                # DNA damage
+  "ERBB2", "ERBB3",                             # RTK signalling
+  "HIF1A",                                      # Hypoxia
+  "SOX2",                                       # Stemness
+  "CTSB", "CTSD", "CTSL", "CTSS", "CTSV"       # Cathepsins
 )
 
 # Human-readable labels for column annotation bar
@@ -46,8 +51,20 @@ GENE_GROUPS_DISPLAY <- c(
   MMP9    = "Angiogenesis",
   IL6     = "JAK-STAT",
   STAT3   = "JAK-STAT",
+  CD274   = "Immune checkpoint",
   APC     = "WNT",
+  WNT3A   = "WNT",
+  TCF7    = "WNT",
+  LEF1    = "WNT",
   BRCA2   = "DNA repair",
+  TP53    = "DNA damage",
+  ATM     = "DNA damage",
+  ATR     = "DNA damage",
+  MDM2    = "DNA damage",
+  ERBB2   = "RTK signalling",
+  ERBB3   = "RTK signalling",
+  HIF1A   = "Hypoxia",
+  SOX2    = "Stemness",
   CTSB    = "Cathepsins",
   CTSD    = "Cathepsins",
   CTSL    = "Cathepsins",
@@ -280,6 +297,7 @@ make_heatmaps_for_cancer <- function(cancer_type) {
 # make_heatmaps_for_cancer("colon")
 # make_heatmaps_for_cancer("breast")
 # make_heatmaps_for_cancer("pancreatic")
-make_heatmaps_for_cancer("prostate")
+# make_heatmaps_for_cancer("prostate")
+make_heatmaps_for_cancer("glioblastoma")
 
 message("\nHeatmap generation complete.")

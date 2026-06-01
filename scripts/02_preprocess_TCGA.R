@@ -132,10 +132,7 @@ preprocess_project <- function(project) {
 # ── Run ───────────────────────────────────────────────────────────────────────
 
 projects_to_run <- c(
-  # "TCGA-COAD" 
-  # "TCGA-BRCA"
-  # "TCGA-PAAD"
-  "TCGA-PRAD"
+  "TCGA-GBM"   # glioblastoma — expanded analysis
 )
 
 for (proj in projects_to_run) {

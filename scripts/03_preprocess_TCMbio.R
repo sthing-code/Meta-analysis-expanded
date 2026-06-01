@@ -156,6 +156,7 @@ preprocess_tcmbio <- function(cancer_type, min_prev = 0.10) {
 # preprocess_tcmbio("colon")
 # preprocess_tcmbio("breast")
 # preprocess_tcmbio("pancreatic")
-preprocess_tcmbio("prostate")
+# preprocess_tcmbio("prostate")
+preprocess_tcmbio("glioblastoma")
 
 message("\nTCMbio preprocessing complete.")
