@@ -62,11 +62,11 @@ PATHWAY_GENES <- list(
   # ── NEW v2.0 ──────────────────────────────────────────────────────────────
   metabolic    = c("LDHA",  "SLC2A1", "SLC16A1", "SLC16A3", "PFKP",
                    "TIGAR", "SESN2"),
-  rtk_extended = c("FGFR2", "FGFR3"),
+  rtk_extended = c("ERBB2", "FGFR2", "FGFR3"),   # ERBB2 added for three-way axis
   tca_idh      = c("GLUD1", "IDH1",  "IDH2"),
   nfkb         = c("NFKB1"),
-  p53_axis     = c("MDM4"),
-  stemness_ext = c("KLF4",  "POU5F1"),
+  p53_axis     = c("TP53",  "MDM4"),               # TP53 added for three-way axis
+  stemness_ext = c("SOX2",  "KLF4",  "POU5F1"),    # SOX2 added for three-way axis
   glioma_marker = c("GFAP", "RBFOX3")
 )
 
