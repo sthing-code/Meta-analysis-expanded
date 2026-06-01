@@ -302,5 +302,6 @@ make_heatmaps_for_cancer("colon")
 make_heatmaps_for_cancer("breast")
 make_heatmaps_for_cancer("pancreatic")
 make_heatmaps_for_cancer("prostate")
+make_heatmaps_for_cancer("glioblastoma")   # already run in v2.0; re-run regenerates figures for consistency
 
 message("\nHeatmap generation complete.")

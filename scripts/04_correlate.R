@@ -131,5 +131,6 @@ correlate_cancer("colon")
 correlate_cancer("breast")
 correlate_cancer("pancreatic")
 correlate_cancer("prostate")
+correlate_cancer("glioblastoma")   # already run in v2.0; re-run confirms RDS is current
 
 message("\nCorrelation analysis complete.")

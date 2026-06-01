@@ -113,7 +113,8 @@ projects_to_run <- c(
   "TCGA-COAD",   # colon adenocarcinoma
   "TCGA-BRCA",   # breast invasive carcinoma
   "TCGA-PAAD",   # pancreatic adenocarcinoma
-  "TCGA-PRAD"    # prostate adenocarcinoma
+  "TCGA-PRAD",   # prostate adenocarcinoma
+  "TCGA-GBM"     # glioblastoma multiforme — already downloaded in v2.0; GDCdownload skips cached files
 )
 
 for (proj in projects_to_run) {

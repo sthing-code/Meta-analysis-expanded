@@ -271,5 +271,6 @@ run_threeway_for_cancer("colon")
 run_threeway_for_cancer("breast")
 run_threeway_for_cancer("pancreatic")
 run_threeway_for_cancer("prostate")
+run_threeway_for_cancer("glioblastoma")   # already run in v2.0; re-run regenerates figures for consistency
 
 message("\nThree-way correlation analysis complete.")
