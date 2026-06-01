@@ -6,16 +6,17 @@ This repository contains the full analysis pipeline correlating intratumoral bac
 (from TCMbio) with the expression of cancer-related genes (from TCGA) across multiple cancer types.
 The primary outputs are Pearson correlation heatmaps and three-way correlation plots per cancer type.
 
-This is the **expanded panel version (v2.0)** of the analysis. The original four-cancer analysis
-(COAD, BRCA, PAAD, PRAD) used a 13-gene panel. This repository extends to a 49-gene panel and
-adds Glioblastoma multiforme (GBM) as a fifth cancer type.
+This is **version 2.1** of the analysis. The original four-cancer analysis (COAD, BRCA, PAAD, PRAD)
+used a 13-gene panel. Version 2.0 extended this to a 49-gene panel and added Glioblastoma
+multiforme (GBM). Version 2.1 re-runs all four original cancer types on the expanded v2.0 panel,
+placing all five cancer types on a consistent basis for cross-cancer comparison.
 
-**Cancer types covered:**
-- Colon adenocarcinoma (COAD) — original panel
-- Breast invasive carcinoma (BRCA) — original panel
-- Pancreatic adenocarcinoma (PAAD) — original panel
-- Prostate adenocarcinoma (PRAD) — original panel
-- Glioblastoma multiforme (GBM) — expanded panel v2.0
+**Cancer types covered (all on expanded v2.0 panel):**
+- Colon adenocarcinoma (COAD) — re-run v2.1
+- Breast invasive carcinoma (BRCA) — re-run v2.1
+- Pancreatic adenocarcinoma (PAAD) — re-run v2.1
+- Prostate adenocarcinoma (PRAD) — re-run v2.1
+- Glioblastoma multiforme (GBM) — first run v2.0
 
 ---
 
@@ -127,8 +128,9 @@ adds Glioblastoma multiforme (GBM) as a fifth cancer type.
 
 ## Reproduction Steps
 
-Run scripts in order. Change the active cancer type string at the bottom of each script
-before sourcing (e.g. `"glioblastoma"`, `"colon"`, `"breast"`, `"pancreatic"`, `"prostate"`).
+Run scripts in order. As of v2.1, scripts 01–06 are configured to run all four original cancer
+types (COAD, BRCA, PAAD, PRAD) in sequence. GBM data and processed RDS files from v2.0 are
+retained unchanged — do not re-run scripts 01–06 for GBM unless a clean re-run is required.
 
 ```r
 source("scripts/01_download_TCGA.R")

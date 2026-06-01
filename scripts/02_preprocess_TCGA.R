@@ -131,8 +131,13 @@ preprocess_project <- function(project) {
 
 # ── Run ───────────────────────────────────────────────────────────────────────
 
+# v2.1: re-running original four cancer types on expanded gene panel.
+
 projects_to_run <- c(
-  "TCGA-GBM"   # glioblastoma — expanded analysis
+  "TCGA-COAD",   # colon adenocarcinoma
+  "TCGA-BRCA",   # breast invasive carcinoma
+  "TCGA-PAAD",   # pancreatic adenocarcinoma
+  "TCGA-PRAD"    # prostate adenocarcinoma
 )
 
 for (proj in projects_to_run) {

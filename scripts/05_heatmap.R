@@ -294,10 +294,13 @@ make_heatmaps_for_cancer <- function(cancer_type) {
   }
 }
 
-# make_heatmaps_for_cancer("colon")
-# make_heatmaps_for_cancer("breast")
-# make_heatmaps_for_cancer("pancreatic")
-# make_heatmaps_for_cancer("prostate")
-make_heatmaps_for_cancer("glioblastoma")
+# ── Run ───────────────────────────────────────────────────────────────────────
+
+# v2.1: re-running original four cancer types on expanded gene panel.
+
+make_heatmaps_for_cancer("colon")
+make_heatmaps_for_cancer("breast")
+make_heatmaps_for_cancer("pancreatic")
+make_heatmaps_for_cancer("prostate")
 
 message("\nHeatmap generation complete.")

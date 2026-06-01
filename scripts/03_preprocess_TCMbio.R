@@ -153,10 +153,12 @@ preprocess_tcmbio <- function(cancer_type, min_prev = 0.10) {
 
 # ── Run ───────────────────────────────────────────────────────────────────────
 
-# preprocess_tcmbio("colon")
-# preprocess_tcmbio("breast")
-# preprocess_tcmbio("pancreatic")
-# preprocess_tcmbio("prostate")
-preprocess_tcmbio("glioblastoma")
+# v2.1: re-running original four cancer types on expanded gene panel.
+# TCMbio CSVs must already be present in data/raw/ — see instructions above.
+
+preprocess_tcmbio("colon")
+preprocess_tcmbio("breast")
+preprocess_tcmbio("pancreatic")
+preprocess_tcmbio("prostate")
 
 message("\nTCMbio preprocessing complete.")

@@ -105,11 +105,15 @@ download_tcga_project <- function(project) {
 
 # ── Run downloads ─────────────────────────────────────────────────────────────
 
-# Start with colon cancer; others will be added when needed.
-# To add a cancer type, simply append its project ID to this vector.
+# v2.1: re-running original four cancer types on expanded gene panel.
+# GBM was already downloaded in v2.0 — omit to avoid redundant re-download.
+# To re-download GBM, add "TCGA-GBM" to the vector below.
 
 projects_to_run <- c(
-  "TCGA-GBM"   # glioblastoma — expanded analysis
+  "TCGA-COAD",   # colon adenocarcinoma
+  "TCGA-BRCA",   # breast invasive carcinoma
+  "TCGA-PAAD",   # pancreatic adenocarcinoma
+  "TCGA-PRAD"    # prostate adenocarcinoma
 )
 
 for (proj in projects_to_run) {

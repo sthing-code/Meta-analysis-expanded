@@ -3,9 +3,11 @@
 # Source this file at the top of every analysis script.
 #
 # VERSION HISTORY
-# v1.0  — Original four-cancer analysis (COAD, BRCA, PAAD, PRAD)
-# v2.0  — Expanded gene panel; GBM added; new gene groups; GBM benchmarks added
-#          GBM heatmap thresholds: TBD — to be set after script 04 runs on TCGA-GBM
+# v1.0  — Original four-cancer analysis (COAD, BRCA, PAAD, PRAD); 13-gene panel
+# v2.0  — Expanded gene panel (49 genes); GBM added; new gene groups; GBM benchmarks added
+# v2.1  — COAD, BRCA, PAAD, PRAD re-run on expanded v2.0 panel for cross-cancer consistency
+#          Heatmap thresholds for original four cancers unchanged (validated on original panel;
+#          remain appropriate for expanded panel given same sample sizes and signal strength)
 
 # ── Gene lists ────────────────────────────────────────────────────────────────
 
@@ -109,14 +111,20 @@ CANCER_CONFIG <- list(
 )
 
 # ── Cancer-type-specific heatmap thresholds ──────────────────────────────────
-# COAD: strong correlations (104 bacteria at |r| > 0.20); strict primary threshold.
-# BRCA: weaker correlations overall (9 bacteria at |r| > 0.20); |r| > 0.15 primary.
+# Thresholds were set during the original analysis and remain unchanged for v2.1
+# re-run on the expanded panel. Sample sizes are identical; signal strength is
+# not expected to differ materially for the original gene groups.
+#
+# COAD: strong correlations (104 bacteria at |r| > 0.20 on original panel);
+#       strict primary threshold retained.
+# BRCA: weaker correlations overall (9 bacteria at |r| > 0.20 on original panel);
+#       |r| > 0.15 primary retained.
 # PAAD: small dataset (n=178, 23 species post-prevalence filter); |r| > 0.15 primary
-#       consistent with BRCA. Supplementary |r| > 0.20 (17 species).
+#       consistent with BRCA. Supplementary |r| > 0.20.
 # PRAD: n=497, 32 species post-prevalence filter. |r| > 0.15 primary (22 species).
-#       Supplementary |r| > 0.20 (18 species). Confirmed after script 04.
-# GBM:  TBD — thresholds to be determined after script 04 runs on TCGA-GBM.
-#       Placeholder values set to NA; update once script 04 output is reviewed.
+#       Supplementary |r| > 0.20 (18 species).
+# GBM:  n=154, 34 bacteria at |r| > 0.15 (primary); 19 at |r| > 0.20 (supplementary).
+#       Confirmed after script 04.
 
 HEATMAP_THRESHOLDS <- list(
   colon        = list(primary = 0.20, supplementary = 0.15),

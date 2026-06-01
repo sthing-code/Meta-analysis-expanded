@@ -123,10 +123,13 @@ correlate_cancer <- function(cancer_type) {
 
 # ── Run ───────────────────────────────────────────────────────────────────────
 
-# correlate_cancer("colon")
-# correlate_cancer("breast")
-# correlate_cancer("pancreatic")
-# correlate_cancer("prostate")
-correlate_cancer("glioblastoma")
+# v2.1: re-running original four cancer types on expanded gene panel.
+# Review output of each correlate_cancer() call before running script 05.
+# Thresholds in utils.R HEATMAP_THRESHOLDS are unchanged from v1.0.
+
+correlate_cancer("colon")
+correlate_cancer("breast")
+correlate_cancer("pancreatic")
+correlate_cancer("prostate")
 
 message("\nCorrelation analysis complete.")
