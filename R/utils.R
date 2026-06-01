@@ -123,8 +123,11 @@ HEATMAP_THRESHOLDS <- list(
   breast       = list(primary = 0.15, supplementary = 0.10),
   pancreatic   = list(primary = 0.15, supplementary = 0.20),
   prostate     = list(primary = 0.15, supplementary = 0.20),
-  # ── NEW v2.0 — PLACEHOLDER ────────────────────────────────────────────────
-  glioblastoma = list(primary = NA_real_,  supplementary = NA_real_)
+
+  # n=154 matched samples; 19 bacteria at |r|>0.20 (4 sig pairs, q<0.05);
+  # 34 bacteria at |r|>0.15. Primary=0.15 for fuller picture (matches BRCA/PAAD).
+  # Supplementary=0.20 for strict view. Confirmed after script 04.
+  glioblastoma = list(primary = 0.15, supplementary = 0.20)
 )
 
 # ── Literature-supported bacteria per cancer type ─────────────────────────────
