@@ -24,13 +24,22 @@ FLAG_COLOURS <- c(
 )
 
 # Column group colours for gene annotation bar
+# Original six groups unchanged.
+# New groups (v2.0 expanded panel) added below.
 GENE_GROUP_COLS <- c(
-  "IGFBP7/Galectin"  = "#E74C3C",
-  "Angiogenesis"     = "#E67E22",
-  "JAK-STAT"         = "#8E44AD",
-  "WNT"              = "#1ABC9C",
-  "DNA repair"       = "#2C3E50",
-  "Cathepsins"       = "#2980B9"
+  "IGFBP7/Galectin"    = "#E74C3C",   # red
+  "Angiogenesis"       = "#E67E22",   # orange
+  "JAK-STAT"           = "#8E44AD",   # purple
+  "WNT"                = "#1ABC9C",   # teal
+  "DNA repair"         = "#2C3E50",   # dark navy
+  "Cathepsins"         = "#2980B9",   # blue
+  # ── NEW v2.0 ──────────────────────────────────────────────────────────────
+  "Immune checkpoint"  = "#C0392B",   # crimson
+  "DNA damage"         = "#7F8C8D",   # grey (related to DNA repair — muted)
+  "RTK signalling"     = "#D4AC0D",   # gold
+  "Hypoxia"            = "#A93226",   # dark red
+  "Stemness"           = "#117A65",   # dark green
+  "WNT extended"       = "#148F77"    # green-teal (WNT family — adjacent to WNT)
 )
 
 # ── ggplot2 base theme ────────────────────────────────────────────────────────
