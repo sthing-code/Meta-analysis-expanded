@@ -31,20 +31,78 @@ source(here("R/plot_themes.R"))
 # ── Axis definitions ──────────────────────────────────────────────────────────
 
 THREEWAY_AXES <- list(
+
+  # ── Original three axes (all cancer types) ───────────────────────────────
   il6_stat3 = list(
-    primary       = "IL6",
-    downstream    = c("STAT3"),
-    label         = "IL-6 → STAT3 axis"
+    primary    = "IL6",
+    downstream = c("STAT3"),
+    label      = "IL-6 → STAT3 axis"
   ),
   vegfa_mapk = list(
-    primary       = "VEGFA",
-    downstream    = c("MAPK1", "MAPK3", "KRAS"),
-    label         = "VEGFA → MAPK axis"
+    primary    = "VEGFA",
+    downstream = c("MAPK1", "MAPK3", "KRAS"),
+    label      = "VEGFA → MAPK axis"
   ),
   apc_wnt = list(
-    primary       = "APC",
-    downstream    = c("CTNNB1", "MYC", "CCND1"),
-    label         = "APC → WNT axis"
+    primary    = "APC",
+    downstream = c("CTNNB1", "MYC", "CCND1"),
+    label      = "APC → WNT axis"
+  ),
+
+  # ── NEW v2.0 — expanded axes ──────────────────────────────────────────────
+
+  # Glycolytic / metabolic reprogramming axis
+  # LDHA is the canonical Warburg endpoint gene; downstream genes cover
+  # glucose transport and lactate export.
+  metabolic = list(
+    primary    = "LDHA",
+    downstream = c("SLC2A1", "SLC16A1", "SLC16A3", "PFKP", "TIGAR", "SESN2"),
+    label      = "LDHA → metabolic reprogramming axis"
+  ),
+
+  # RTK signalling axis
+  # ERBB2 as primary; FGFR2/3 as co-receptor downstream comparators.
+  rtk_extended = list(
+    primary    = "ERBB2",
+    downstream = c("FGFR2", "FGFR3"),
+    label      = "ERBB2 → RTK signalling axis"
+  ),
+
+  # TCA / IDH axis — particularly relevant for GBM (IDH mutation status)
+  # IDH1 as primary (most commonly mutated in glioma); IDH2 and GLUD1
+  # as downstream TCA cycle nodes.
+  tca_idh = list(
+    primary    = "IDH1",
+    downstream = c("IDH2", "GLUD1"),
+    label      = "IDH1 → TCA cycle axis"
+  ),
+
+  # NF-kB → IL-6 → STAT3 axis
+  # NFKB1 as primary; IL6 and STAT3 as downstream effectors.
+  # NF-kB drives IL-6 transcription, which activates STAT3 — a well-established
+  # inflammatory signalling cascade in GBM (Brennan et al. 2013; TCGA GBM).
+  nfkb_il6_stat3 = list(
+    primary    = "NFKB1",
+    downstream = c("IL6", "STAT3"),
+    label      = "NF-kB → IL-6 → STAT3 axis"
+  ),
+
+  # p53 DNA damage response axis
+  # TP53 as primary; MDM2 (negative regulator), MDM4 (co-regulator),
+  # ATM and ATR (upstream kinases) as downstream context.
+  p53_axis = list(
+    primary    = "TP53",
+    downstream = c("MDM2", "MDM4", "ATM", "ATR"),
+    label      = "TP53 → DNA damage response axis"
+  ),
+
+  # Stemness axis
+  # SOX2 as primary stem cell transcription factor;
+  # KLF4 and POU5F1 (OCT4) as co-expressed pluripotency factors.
+  stemness_ext = list(
+    primary    = "SOX2",
+    downstream = c("KLF4", "POU5F1"),
+    label      = "SOX2 → stemness axis"
   )
 )
 

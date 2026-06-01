@@ -245,27 +245,36 @@ BENCHMARK_BACTERIA <- list(
   ),
 
   # ── NEW v2.0 — GBM benchmark ────────────────────────────────────────────────
-  # Only two confirmed entries. C. acnes explicitly excluded — no direct GBM
-  # tissue evidence in any reviewed paper (see handoff Section 6).
+  # C. acnes explicitly excluded — no direct GBM tissue evidence in any
+  # reviewed paper.
+  #
+  # Confidence levels:
+  # HIGH   — statistically validated enrichment in GBM/glioma tissue
+  # MODERATE — abundance ranking only; no genus reached statistical significance
+  #            (Mehelleb et al. 2025, n=9, 16S rRNA fresh GBM tissue)
+  #
+  # All MODERATE entries use one representative species per genus to trigger
+  # genus-level matching in flag_bacterium(). TCMbio operates at species level
+  # so exact species matches are not expected; genus matching is sufficient.
   glioblastoma = c(
-    # HIGH confidence:
+    # ── HIGH confidence ───────────────────────────────────────────────────────
     # Li et al. 2024 (mSystems, DOI: 10.1128/msystems.00457-24)
-    # Genus Fusobacterium significantly enriched in glioma tissue vs adjacent
-    # normal brain (n=50 patients); bacterial RNA and LPS confirmed by IHC,
-    # immunofluorescence, and FISH; F. nucleatum promotes glioma cell proliferation
-    # and upregulates CCL2, CXCL1, CXCL2 in xenograft and organoid models.
-    # Note: study includes mixed glioma grades, not exclusively GBM.
+    # Fusobacterium significantly enriched in glioma tissue vs adjacent normal
+    # brain (n=50); confirmed by IHC, immunofluorescence, and FISH.
+    # F. nucleatum promotes glioma proliferation; upregulates CCL2, CXCL1,
+    # CXCL2 in xenograft and organoid models. Mixed glioma grades — not
+    # exclusively GBM.
     "Fusobacterium nucleatum",
-    # MODERATE confidence:
-    # Mehelleb et al. 2025 (Int J Mol Sci, n=9 GBM patients, 16S rRNA fresh tissue)
-    # Sphingomonas ranked as second most abundant genus (12.90% relative abundance).
-    # No genus reached statistical significance in differential-abundance testing.
-    # Treat as abundance ranking only — not validated enrichment.
-    "Sphingomonas melonis"
-    # Note: Burkholderia-Caballeronia-Paraburkholderia (27.43%), Helicobacter (4.16%),
-    # and Leifsonia (8.01%) also reported by Mehelleb et al. 2025 but excluded here
-    # as they are unlikely to match TCMbio species namespace at species level.
-    # Revisit if these genera appear post-prevalence filter in script 03.
+    # ── MODERATE confidence — Mehelleb et al. 2025 genus abundance ranking ───
+    # No genus reached statistical significance. Abundance rankings:
+    # Burkholderia-Caballeronia-Paraburkholderia 27.43% (most abundant)
+    "Burkholderia cepacia",
+    # Leifsonia 8.01%
+    "Leifsonia xyli",
+    # Sphingomonas 12.90%
+    "Sphingomonas melonis",
+    # Helicobacter 4.16%
+    "Helicobacter pylori"
   )
 )
 

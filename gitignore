@@ -1,0 +1,30 @@
+# Raw data — never commit (too large)
+data/raw/
+
+# Full SummarizedExperiment objects — too large for GitHub (>100MB)
+data/processed/*_SE_full.rds
+data/processed/*_SE_priority_genes.rds
+
+# All other processed files (correlations, TPM, bacteria) ARE tracked
+# so they survive git reset and don't need to be regenerated
+
+# R project file — local only
+*.Rproj
+
+# R session
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!figures/colon/.gitkeep
+!figures/breast/.gitkeep
+!figures/pancreatic/.gitkeep
+!figures/prostate/.gitkeep
+!figures/glioblastoma/.gitkeep
