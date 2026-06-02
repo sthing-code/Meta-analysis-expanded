@@ -160,6 +160,6 @@ preprocess_tcmbio("colon")
 preprocess_tcmbio("breast")
 preprocess_tcmbio("pancreatic")
 preprocess_tcmbio("prostate")
-preprocess_tcmbio("glioblastoma")   # already processed in v2.0; re-run confirms RDS is current
+# preprocess_tcmbio("glioblastoma")   # already processed in v2.0; re-run confirms RDS is current
 
 message("\nTCMbio preprocessing complete.")

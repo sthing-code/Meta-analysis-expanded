@@ -138,7 +138,7 @@ projects_to_run <- c(
   "TCGA-BRCA",   # breast invasive carcinoma
   "TCGA-PAAD",   # pancreatic adenocarcinoma
   "TCGA-PRAD",   # prostate adenocarcinoma
-  "TCGA-GBM"     # glioblastoma multiforme — re-processed to confirm consistency with v2.1
+  # "TCGA-GBM"     # glioblastoma multiforme — re-processed to confirm consistency with v2.1
 )
 
 for (proj in projects_to_run) {
