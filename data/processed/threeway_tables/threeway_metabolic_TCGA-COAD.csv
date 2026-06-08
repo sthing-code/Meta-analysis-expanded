@@ -1,0 +1,13 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Corynebacterium coyleae","SLC16A1",-0.2206,-0.2451,0,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium coyleae","TIGAR",-0.2206,-0.1878,5e-04,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","SLC16A1",-0.2075,-0.2309,0,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","PFKP",-0.2075,-0.1687,0.002,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","TIGAR",-0.2075,-0.1627,0.003,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","SESN2",-0.2075,-0.2141,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium coyleae","SLC2A1",-0.2206,-0.0016,0.9824,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium coyleae","SLC16A3",-0.2206,-0.0341,0.6107,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium coyleae","PFKP",-0.2206,-0.0364,0.5831,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium coyleae","SESN2",-0.2206,-0.0997,0.083,FALSE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","SLC2A1",-0.2075,-0.0407,0.5334,FALSE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","SLC16A3",-0.2075,-0.1105,0.0515,FALSE,TRUE,"novel",FALSE

@@ -1,0 +1,19 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Pseudomonas citronellolis","MAPK3",0.1535,0.1794,0.3319,FALSE,FALSE,"novel",TRUE
+"s  Clostridium botulinum","MAPK1",-0.2724,-0.2325,0.169,FALSE,FALSE,"novel",FALSE
+"s  Clostridium botulinum","MAPK3",-0.2724,-0.156,0.3982,FALSE,FALSE,"novel",FALSE
+"s  Clostridium botulinum","KRAS",-0.2724,-0.1433,0.4524,FALSE,FALSE,"novel",FALSE
+"s  Spirosoma pollinicola","MAPK1",-0.2172,-0.1108,0.597,FALSE,FALSE,"novel",FALSE
+"s  Spirosoma pollinicola","MAPK3",-0.2172,-0.1821,0.3211,FALSE,FALSE,"novel",FALSE
+"s  Spirosoma pollinicola","KRAS",-0.2172,-0.1351,0.4638,FALSE,FALSE,"novel",FALSE
+"s  Corynebacterium propinquum","MAPK1",-0.1952,-0.0816,0.7383,FALSE,FALSE,"novel",FALSE
+"s  Corynebacterium propinquum","MAPK3",-0.1952,-0.1832,0.3199,FALSE,FALSE,"novel",FALSE
+"s  Corynebacterium propinquum","KRAS",-0.1952,-0.0291,0.9403,FALSE,FALSE,"novel",FALSE
+"s  Actinomyces oris","MAPK1",-0.1873,-0.149,0.4367,FALSE,FALSE,"novel",FALSE
+"s  Actinomyces oris","MAPK3",-0.1873,-0.1463,0.4424,FALSE,FALSE,"novel",FALSE
+"s  Actinomyces oris","KRAS",-0.1873,-0.0899,0.6959,FALSE,FALSE,"novel",FALSE
+"s  Cutibacterium granulosum","MAPK1",-0.1617,0.0581,0.8403,FALSE,FALSE,"novel",FALSE
+"s  Cutibacterium granulosum","MAPK3",-0.1617,-0.0298,0.9374,FALSE,FALSE,"novel",FALSE
+"s  Cutibacterium granulosum","KRAS",-0.1617,0.0299,0.9374,FALSE,FALSE,"novel",FALSE
+"s  Pseudomonas citronellolis","MAPK1",0.1535,-0.0728,0.7761,FALSE,FALSE,"novel",FALSE
+"s  Pseudomonas citronellolis","KRAS",0.1535,-0.0813,0.7393,FALSE,FALSE,"novel",FALSE

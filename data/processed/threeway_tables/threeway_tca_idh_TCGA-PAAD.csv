@@ -1,0 +1,17 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Priestia megaterium","IDH2",0.1958,0.0607,0.6687,FALSE,FALSE,"novel",TRUE
+"s  Priestia megaterium","GLUD1",0.1958,0.0496,0.7212,FALSE,FALSE,"novel",TRUE
+"s  Staphylococcus simulans","GLUD1",0.2601,0.1989,0.051,FALSE,TRUE,"novel",TRUE
+"s  Meiothermus silvanus","GLUD1",-0.3698,-0.2166,0.0303,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","GLUD1",-0.3148,-0.2175,0.0302,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","GLUD1",-0.261,-0.3122,6e-04,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","IDH2",-0.3698,-0.0148,0.9332,FALSE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","IDH2",-0.3148,0.0817,0.5305,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","IDH2",-0.276,-0.0851,0.5075,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","GLUD1",-0.276,-0.1292,0.2654,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","IDH2",-0.261,-0.0451,0.7322,FALSE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","IDH2",-0.2043,-0.0451,0.7322,FALSE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","GLUD1",-0.2043,-0.1676,0.1216,FALSE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","IDH2",-0.1703,-0.0917,0.4701,FALSE,FALSE,"novel",FALSE
+"s  Pasteurella multocida","GLUD1",-0.1703,-0.0646,0.6421,FALSE,FALSE,"novel",FALSE
+"s  Staphylococcus simulans","IDH2",0.2601,-0.0197,0.8994,FALSE,TRUE,"novel",FALSE

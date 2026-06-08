@@ -1,0 +1,31 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Pseudomonas sp. CIP-10","TIGAR",0.1622,0.0896,0.0225,TRUE,TRUE,"novel",TRUE
+"s  Escherichia coli","TIGAR",0.1839,0.1331,3e-04,TRUE,TRUE,"literature-supported",TRUE
+"s  Staphylococcus simulans","SLC16A1",0.2882,0.1106,0.0036,TRUE,TRUE,"literature-supported",TRUE
+"s  Staphylococcus simulans","TIGAR",0.2882,0.261,0,TRUE,TRUE,"literature-supported",TRUE
+"s  Pseudomonas sp. CIP-10","SLC2A1",0.1622,0.0236,0.6264,FALSE,TRUE,"novel",TRUE
+"s  Pseudomonas sp. CIP-10","SLC16A1",0.1622,0.0273,0.5647,FALSE,TRUE,"novel",TRUE
+"s  Escherichia coli","SLC2A1",0.1839,0.0387,0.3954,FALSE,TRUE,"literature-supported",TRUE
+"s  Escherichia coli","SLC16A1",0.1839,0.0468,0.2861,FALSE,TRUE,"literature-supported",TRUE
+"s  Staphylococcus simulans","SLC2A1",0.2882,0.057,0.175,FALSE,TRUE,"literature-supported",TRUE
+"s  Meiothermus silvanus","SLC2A1",-0.2453,-0.1672,0,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","SLC16A1",-0.2453,-0.1009,0.009,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","TIGAR",-0.2453,-0.2332,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","SLC2A1",-0.1989,-0.0893,0.023,TRUE,TRUE,"literature-supported",FALSE
+"s  Sphingomonas melonis","SLC16A1",-0.1989,-0.0832,0.0349,TRUE,TRUE,"literature-supported",FALSE
+"s  Sphingomonas melonis","TIGAR",-0.1989,-0.1837,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Pseudomonas sp. CIP-10","SLC16A3",0.1622,-0.0994,0.0104,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","SESN2",0.1622,-0.0982,0.0113,TRUE,TRUE,"novel",FALSE
+"s  Escherichia coli","SLC16A3",0.1839,-0.1177,0.0017,TRUE,TRUE,"literature-supported",FALSE
+"s  Staphylococcus simulans","SLC16A3",0.2882,-0.1274,5e-04,TRUE,TRUE,"literature-supported",FALSE
+"s  Meiothermus silvanus","SLC16A3",-0.2453,0.0581,0.1652,FALSE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","PFKP",-0.2453,-0.0578,0.1682,FALSE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","SESN2",-0.2453,-0.0365,0.427,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","SLC16A3",-0.1989,0.045,0.3087,FALSE,TRUE,"literature-supported",FALSE
+"s  Sphingomonas melonis","PFKP",-0.1989,-0.0562,0.1828,FALSE,TRUE,"literature-supported",FALSE
+"s  Sphingomonas melonis","SESN2",-0.1989,-0.0477,0.2742,FALSE,TRUE,"literature-supported",FALSE
+"s  Pseudomonas sp. CIP-10","PFKP",0.1622,-0.0517,0.2293,FALSE,TRUE,"novel",FALSE
+"s  Escherichia coli","PFKP",0.1839,-0.0584,0.1627,FALSE,TRUE,"literature-supported",FALSE
+"s  Escherichia coli","SESN2",0.1839,-0.01,0.8498,FALSE,TRUE,"literature-supported",FALSE
+"s  Staphylococcus simulans","PFKP",0.2882,-0.0132,0.8013,FALSE,TRUE,"literature-supported",FALSE
+"s  Staphylococcus simulans","SESN2",0.2882,-0.0284,0.5471,FALSE,TRUE,"literature-supported",FALSE

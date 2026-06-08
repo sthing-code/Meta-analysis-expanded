@@ -1,0 +1,17 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Meiothermus silvanus","FGFR2",-0.1957,-0.1911,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Spirosoma pollinicola","FGFR3",-0.1794,-0.1518,0.0022,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","FGFR2",-0.172,-0.1292,0.0101,TRUE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","FGFR2",-0.2028,-0.0371,0.5174,FALSE,TRUE,"literature-supported",FALSE
+"s  Moraxella osloensis","FGFR3",-0.2028,-0.0922,0.073,FALSE,TRUE,"literature-supported",FALSE
+"s  Meiothermus silvanus","FGFR3",-0.1957,-0.0269,0.6498,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","FGFR2",-0.1879,-0.0621,0.2504,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","FGFR3",-0.1879,-0.0707,0.1837,FALSE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","FGFR2",-0.1817,-0.0231,0.6937,FALSE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","FGFR3",-0.1817,-0.0256,0.665,FALSE,TRUE,"novel",FALSE
+"s  Spirosoma pollinicola","FGFR2",-0.1794,0.0276,0.6404,FALSE,TRUE,"novel",FALSE
+"s  Vibrio anguillarum","FGFR2",-0.1791,0,0.9991,FALSE,TRUE,"novel",FALSE
+"s  Vibrio anguillarum","FGFR3",-0.1791,-0.0717,0.1769,FALSE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","FGFR3",-0.172,-0.0418,0.4566,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","FGFR2",-0.1511,-0.0038,0.945,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","FGFR3",-0.1511,-0.0993,0.0527,FALSE,TRUE,"novel",FALSE

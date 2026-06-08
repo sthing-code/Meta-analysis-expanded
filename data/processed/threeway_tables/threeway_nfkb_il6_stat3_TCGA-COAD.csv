@@ -1,0 +1,93 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Moraxella osloensis","STAT3",-0.3795,-0.3082,0,TRUE,TRUE,"novel",FALSE
+"s  Lawsonella clevelandensis","STAT3",-0.3242,-0.2897,0,TRUE,TRUE,"novel",FALSE
+"s  Peptoniphilus harei","STAT3",-0.3231,-0.2608,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas stutzeri","STAT3",-0.3068,-0.2504,0,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","STAT3",-0.2974,-0.3329,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas aeruginosa","STAT3",-0.2931,-0.2138,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium granulosum","STAT3",-0.2921,-0.3034,0,TRUE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","STAT3",-0.2745,-0.2601,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Streptococcus sanguinis","STAT3",-0.2745,-0.1973,2e-04,TRUE,TRUE,"literature-supported",FALSE
+"s  Corynebacterium kroppenstedtii","STAT3",-0.2715,-0.2425,0,TRUE,TRUE,"novel",FALSE
+"s  Salmonella enterica","STAT3",-0.2696,-0.2104,1e-04,TRUE,TRUE,"literature-supported",FALSE
+"s  Corynebacterium matruchotii","STAT3",-0.2663,-0.2264,0,TRUE,TRUE,"novel",FALSE
+"s  Finegoldia magna","STAT3",-0.2648,-0.2635,0,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium kefirresidentii","STAT3",-0.2641,-0.3326,0,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","STAT3",-0.2593,-0.2423,0,TRUE,TRUE,"novel",FALSE
+"s  Staphylococcus hominis","STAT3",-0.2558,-0.2162,0,TRUE,TRUE,"novel",FALSE
+"s  Lactiplantibacillus plantarum","STAT3",-0.2516,-0.1969,3e-04,TRUE,TRUE,"novel",FALSE
+"s  Rothia dentocariosa","STAT3",-0.2515,-0.2137,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Aquirufa sp. 9H-EGSE","STAT3",-0.2512,-0.2624,0,TRUE,TRUE,"novel",FALSE
+"s  Actinomyces oris","STAT3",-0.2488,-0.161,0.0033,TRUE,TRUE,"novel",FALSE
+"s  Streptococcus thermophilus","STAT3",-0.2471,-0.2336,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Leptolyngbya sp. 7M","STAT3",-0.2437,-0.2155,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas fluorescens","STAT3",-0.2425,-0.1769,0.0011,TRUE,TRUE,"novel",FALSE
+"s  Streptococcus gordonii","STAT3",-0.2395,-0.1934,3e-04,TRUE,TRUE,"literature-supported",FALSE
+"s  Corynebacterium ureicelerivorans","STAT3",-0.2382,-0.2809,0,TRUE,TRUE,"novel",FALSE
+"s  Gemella haemolysans","STAT3",-0.2358,-0.1682,0.002,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. OE 28.3","STAT3",-0.2351,-0.1881,5e-04,TRUE,TRUE,"novel",FALSE
+"s  Veillonella parvula","STAT3",-0.2323,-0.142,0.0102,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","STAT3",-0.2318,-0.1635,0.0028,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas panacisoli","STAT3",-0.2277,-0.2252,0,TRUE,TRUE,"novel",FALSE
+"s  Rothia mucilaginosa","STAT3",-0.2261,-0.1756,0.0012,TRUE,TRUE,"novel",FALSE
+"s  Fluviibacter phosphoraccumulans","STAT3",-0.224,-0.1786,0.001,TRUE,TRUE,"novel",FALSE
+"s  Pantoea agglomerans","STAT3",-0.2218,-0.1589,0.0038,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium avidum","STAT3",-0.2209,-0.2235,0,TRUE,TRUE,"novel",FALSE
+"s  Lactobacillus iners","STAT3",-0.2188,-0.2446,0,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","STAT3",-0.2171,-0.2497,0,TRUE,TRUE,"novel",FALSE
+"s  Haemophilus parainfluenzae","STAT3",-0.2169,-0.1583,0.004,TRUE,TRUE,"novel",FALSE
+"s  Streptococcus oralis","STAT3",-0.2119,-0.1549,0.0049,TRUE,TRUE,"literature-supported",FALSE
+"s  Pseudomonas sp. CIP-10","STAT3",-0.2096,-0.1672,0.0022,TRUE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","STAT3",-0.2073,-0.1327,0.0171,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","STAT3",-0.2045,-0.1683,0.002,TRUE,TRUE,"novel",FALSE
+"s  Prevotella melaninogenica","STAT3",-0.2021,-0.2046,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. JS-JIR-II-b4","STAT3",-0.2018,-0.2099,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Lautropia mirabilis","STAT3",-0.2009,-0.1601,0.0035,TRUE,TRUE,"novel",FALSE
+"s  Polynucleobacter necessarius","STAT3",-0.2008,-0.1689,0.002,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium coyleae","STAT3",-0.2001,-0.2449,0,TRUE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","IL6",-0.3795,-0.061,0.3204,FALSE,TRUE,"novel",FALSE
+"s  Lawsonella clevelandensis","IL6",-0.3242,-0.0281,0.6794,FALSE,TRUE,"novel",FALSE
+"s  Peptoniphilus harei","IL6",-0.3231,0.0083,0.9113,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas stutzeri","IL6",-0.3068,-0.0077,0.9185,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","IL6",-0.2974,-0.0945,0.1028,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas aeruginosa","IL6",-0.2931,-0.0584,0.3446,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium granulosum","IL6",-0.2921,-0.0603,0.3268,FALSE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","IL6",-0.2745,-0.0186,0.7892,FALSE,TRUE,"literature-supported",FALSE
+"s  Streptococcus sanguinis","IL6",-0.2745,-0.0247,0.7201,FALSE,TRUE,"literature-supported",FALSE
+"s  Corynebacterium kroppenstedtii","IL6",-0.2715,0.0294,0.6647,FALSE,TRUE,"novel",FALSE
+"s  Salmonella enterica","IL6",-0.2696,0.0084,0.9112,FALSE,TRUE,"literature-supported",FALSE
+"s  Corynebacterium matruchotii","IL6",-0.2663,-0.0383,0.5608,FALSE,TRUE,"novel",FALSE
+"s  Finegoldia magna","IL6",-0.2648,-0.0273,0.6883,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium kefirresidentii","IL6",-0.2641,-0.0654,0.2809,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","IL6",-0.2593,-0.0146,0.8371,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus hominis","IL6",-0.2558,-0.0636,0.2973,FALSE,TRUE,"novel",FALSE
+"s  Lactiplantibacillus plantarum","IL6",-0.2516,-4e-04,0.9964,FALSE,TRUE,"novel",FALSE
+"s  Rothia dentocariosa","IL6",-0.2515,-0.0619,0.312,FALSE,TRUE,"novel",FALSE
+"s  Aquirufa sp. 9H-EGSE","IL6",-0.2512,0.0355,0.5957,FALSE,TRUE,"novel",FALSE
+"s  Actinomyces oris","IL6",-0.2488,0.0023,0.9763,FALSE,TRUE,"novel",FALSE
+"s  Streptococcus thermophilus","IL6",-0.2471,-0.0456,0.4791,FALSE,TRUE,"literature-supported",FALSE
+"s  Leptolyngbya sp. 7M","IL6",-0.2437,-0.0318,0.6382,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas fluorescens","IL6",-0.2425,0.0066,0.9291,FALSE,TRUE,"novel",FALSE
+"s  Streptococcus gordonii","IL6",-0.2395,0.0399,0.5429,FALSE,TRUE,"literature-supported",FALSE
+"s  Corynebacterium ureicelerivorans","IL6",-0.2382,-0.1035,0.0703,FALSE,TRUE,"novel",FALSE
+"s  Gemella haemolysans","IL6",-0.2358,-0.016,0.8213,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. OE 28.3","IL6",-0.2351,0,0.9999,FALSE,TRUE,"novel",FALSE
+"s  Veillonella parvula","IL6",-0.2323,0.0419,0.5209,FALSE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","IL6",-0.2318,0.0328,0.6259,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas panacisoli","IL6",-0.2277,0.0172,0.8072,FALSE,TRUE,"novel",FALSE
+"s  Rothia mucilaginosa","IL6",-0.2261,-0.0194,0.7792,FALSE,TRUE,"novel",FALSE
+"s  Fluviibacter phosphoraccumulans","IL6",-0.224,-0.0053,0.9412,FALSE,TRUE,"novel",FALSE
+"s  Pantoea agglomerans","IL6",-0.2218,-0.0115,0.8726,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium avidum","IL6",-0.2209,-0.0628,0.3041,FALSE,TRUE,"novel",FALSE
+"s  Lactobacillus iners","IL6",-0.2188,-0.013,0.8556,FALSE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","IL6",-0.2171,0.0302,0.6559,FALSE,TRUE,"novel",FALSE
+"s  Haemophilus parainfluenzae","IL6",-0.2169,0.016,0.8215,FALSE,TRUE,"novel",FALSE
+"s  Streptococcus oralis","IL6",-0.2119,0.0088,0.9043,FALSE,TRUE,"literature-supported",FALSE
+"s  Pseudomonas sp. CIP-10","IL6",-0.2096,-0.0147,0.8358,FALSE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","IL6",-0.2073,0.07,0.2438,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","IL6",-0.2045,-0.0234,0.734,FALSE,TRUE,"novel",FALSE
+"s  Prevotella melaninogenica","IL6",-0.2021,-0.0212,0.7595,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. JS-JIR-II-b4","IL6",-0.2018,-0.0203,0.7693,FALSE,TRUE,"novel",FALSE
+"s  Lautropia mirabilis","IL6",-0.2009,-0.0207,0.7651,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter necessarius","IL6",-0.2008,-0.023,0.7389,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium coyleae","IL6",-0.2001,-0.0581,0.3468,FALSE,TRUE,"novel",FALSE

@@ -1,0 +1,52 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Staphylococcus simulans","CTNNB1",0.4724,0.3315,0,TRUE,TRUE,"novel",TRUE
+"s  Staphylococcus simulans","MYC",0.4724,0.1609,0.0011,TRUE,TRUE,"novel",TRUE
+"s  Staphylococcus simulans","CCND1",0.4724,0.1927,1e-04,TRUE,TRUE,"novel",TRUE
+"s  Meiothermus silvanus","CTNNB1",-0.5871,-0.512,0,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","MYC",-0.5871,-0.2974,0,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","CCND1",-0.5871,-0.3731,0,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","CTNNB1",-0.5007,-0.4361,0,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","MYC",-0.5007,-0.2573,0,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","CCND1",-0.5007,-0.382,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","CTNNB1",-0.4808,-0.3966,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","MYC",-0.4808,-0.2087,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","CCND1",-0.4808,-0.2816,0,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","CTNNB1",-0.3518,-0.3652,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Cutibacterium acnes","MYC",-0.3518,-0.2598,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Cutibacterium acnes","CCND1",-0.3518,-0.2645,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Pseudomonas sp. CIP-10","CTNNB1",-0.3473,-0.3356,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","MYC",-0.3473,-0.2747,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","CCND1",-0.3473,-0.2009,0,TRUE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","CTNNB1",-0.3382,-0.3844,0,TRUE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","MYC",-0.3382,-0.2601,0,TRUE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","CCND1",-0.3382,-0.2591,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","CTNNB1",-0.2769,-0.3285,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","MYC",-0.2769,-0.2247,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","CCND1",-0.2769,-0.2526,0,TRUE,TRUE,"novel",FALSE
+"s  Staphylococcus aureus","CTNNB1",-0.275,-0.3,0,TRUE,TRUE,"novel",FALSE
+"s  Staphylococcus aureus","MYC",-0.275,-0.1851,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Staphylococcus aureus","CCND1",-0.275,-0.2163,0,TRUE,TRUE,"novel",FALSE
+"s  Klebsiella pneumoniae","CTNNB1",-0.2332,-0.2844,0,TRUE,TRUE,"novel",FALSE
+"s  Klebsiella pneumoniae","MYC",-0.2332,-0.1457,0.0035,TRUE,TRUE,"novel",FALSE
+"s  Klebsiella pneumoniae","CCND1",-0.2332,-0.243,0,TRUE,TRUE,"novel",FALSE
+"s  Kinneretia sp. DAIF2","CTNNB1",-0.2069,-0.197,0,TRUE,TRUE,"novel",FALSE
+"s  Clostridium tetani","CTNNB1",-0.2046,-0.2513,0,TRUE,TRUE,"novel",FALSE
+"s  Clostridium tetani","MYC",-0.2046,-0.1836,2e-04,TRUE,TRUE,"novel",FALSE
+"s  Clostridium tetani","CCND1",-0.2046,-0.1855,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","CTNNB1",-0.202,-0.2214,0,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","MYC",-0.202,-0.2265,0,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","CCND1",-0.202,-0.1664,7e-04,TRUE,TRUE,"novel",FALSE
+"s  Spirosoma pollinicola","CTNNB1",-0.1989,-0.2841,0,TRUE,TRUE,"novel",FALSE
+"s  Spirosoma pollinicola","MYC",-0.1989,-0.2459,0,TRUE,TRUE,"novel",FALSE
+"s  Spirosoma pollinicola","CCND1",-0.1989,-0.1487,0.0028,TRUE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","CTNNB1",-0.1868,-0.346,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Moraxella osloensis","MYC",-0.1868,-0.2732,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Moraxella osloensis","CCND1",-0.1868,-0.2328,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Proteus mirabilis","CTNNB1",-0.1826,-0.2209,0,TRUE,TRUE,"novel",FALSE
+"s  Proteus mirabilis","MYC",-0.1826,-0.2292,0,TRUE,TRUE,"novel",FALSE
+"s  Proteus mirabilis","CCND1",-0.1826,-0.1259,0.0122,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","CTNNB1",-0.1599,-0.2049,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","MYC",-0.1599,-0.1756,3e-04,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","CCND1",-0.1599,-0.1926,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Kinneretia sp. DAIF2","MYC",-0.2069,-0.0761,0.1491,FALSE,TRUE,"novel",FALSE
+"s  Kinneretia sp. DAIF2","CCND1",-0.2069,-0.048,0.3872,FALSE,TRUE,"novel",FALSE

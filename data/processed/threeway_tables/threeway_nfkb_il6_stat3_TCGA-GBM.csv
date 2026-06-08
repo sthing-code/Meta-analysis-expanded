@@ -1,0 +1,27 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Staphylococcus aureus","STAT3",-0.3179,-0.2982,0.0295,TRUE,TRUE,"novel",FALSE
+"s  Escherichia coli","STAT3",-0.2755,-0.3181,0.018,TRUE,FALSE,"novel",FALSE
+"s  Vibrio anguillarum","IL6",-0.3405,-0.0141,0.9889,FALSE,TRUE,"novel",FALSE
+"s  Vibrio anguillarum","STAT3",-0.3405,-0.2801,0.0571,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus aureus","IL6",-0.3179,-0.0095,0.9889,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","IL6",-0.2936,-0.0502,0.8654,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","STAT3",-0.2936,-0.1995,0.2851,FALSE,TRUE,"novel",FALSE
+"s  Escherichia coli","IL6",-0.2755,0.0876,0.7039,FALSE,FALSE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","IL6",-0.2146,-0.0169,0.9742,FALSE,FALSE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","STAT3",-0.2146,-0.1772,0.337,FALSE,FALSE,"novel",FALSE
+"s  Moraxella osloensis","IL6",-0.2091,0.0819,0.7376,FALSE,FALSE,"novel",FALSE
+"s  Moraxella osloensis","STAT3",-0.2091,-0.204,0.283,FALSE,FALSE,"novel",FALSE
+"s  Klebsiella pneumoniae","IL6",-0.207,-0.0216,0.9604,FALSE,FALSE,"novel",FALSE
+"s  Klebsiella pneumoniae","STAT3",-0.207,-0.1668,0.3662,FALSE,FALSE,"novel",FALSE
+"s  Corynebacterium propinquum","IL6",-0.1912,-0.0329,0.9306,FALSE,FALSE,"novel",FALSE
+"s  Corynebacterium propinquum","STAT3",-0.1912,-0.114,0.5772,FALSE,FALSE,"novel",FALSE
+"s  Hydrogenophaga sp. NH-16","IL6",-0.1766,0.0464,0.8841,FALSE,FALSE,"novel",FALSE
+"s  Hydrogenophaga sp. NH-16","STAT3",-0.1766,-0.1455,0.4428,FALSE,FALSE,"novel",FALSE
+"s  Clostridium botulinum","IL6",-0.1729,0.0594,0.8403,FALSE,FALSE,"novel",FALSE
+"s  Clostridium botulinum","STAT3",-0.1729,-0.2152,0.2499,FALSE,FALSE,"novel",FALSE
+"s  Pseudomonas putida","IL6",-0.1638,-0.1863,0.3041,FALSE,FALSE,"novel",FALSE
+"s  Pseudomonas putida","STAT3",-0.1638,-0.0395,0.9069,FALSE,FALSE,"novel",FALSE
+"s  Streptococcus thermophilus","IL6",-0.1595,0.1567,0.3982,FALSE,FALSE,"novel",FALSE
+"s  Streptococcus thermophilus","STAT3",-0.1595,-0.2379,0.1558,FALSE,FALSE,"novel",FALSE
+"s  Actinomyces oris","IL6",-0.1543,0.1066,0.6191,FALSE,FALSE,"novel",FALSE
+"s  Actinomyces oris","STAT3",-0.1543,-0.234,0.169,FALSE,FALSE,"novel",FALSE

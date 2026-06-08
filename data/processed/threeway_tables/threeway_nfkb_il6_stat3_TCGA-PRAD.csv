@@ -1,0 +1,49 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Priestia megaterium","STAT3",0.2091,0.1629,9e-04,TRUE,TRUE,"novel",TRUE
+"s  Staphylococcus simulans","STAT3",0.2473,0.3419,0,TRUE,TRUE,"novel",TRUE
+"s  Priestia megaterium","IL6",0.2091,0.0581,0.2868,FALSE,TRUE,"novel",TRUE
+"s  Meiothermus silvanus","STAT3",-0.4412,-0.5044,0,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","STAT3",-0.4276,-0.4256,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","STAT3",-0.353,-0.3844,0,TRUE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","STAT3",-0.3505,-0.3248,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","STAT3",-0.315,-0.2679,0,TRUE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","STAT3",-0.3124,-0.2551,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Pseudomonas sp. CIP-10","STAT3",-0.3111,-0.3074,0,TRUE,TRUE,"novel",FALSE
+"s  Staphylococcus aureus","STAT3",-0.3056,-0.2778,0,TRUE,TRUE,"novel",FALSE
+"s  Clostridium tetani","STAT3",-0.2726,-0.2446,0,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","STAT3",-0.2721,-0.2937,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Spirosoma pollinicola","STAT3",-0.2411,-0.2336,0,TRUE,TRUE,"novel",FALSE
+"s  Klebsiella pneumoniae","STAT3",-0.2339,-0.2284,0,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","STAT3",-0.2264,-0.2193,0,TRUE,TRUE,"novel",FALSE
+"s  Proteus mirabilis","STAT3",-0.2004,-0.23,0,TRUE,TRUE,"novel",FALSE
+"s  Vibrio anguillarum","STAT3",-0.1887,-0.1675,6e-04,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","STAT3",-0.177,-0.165,8e-04,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","STAT3",-0.1603,-0.1392,0.0054,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","IL6",-0.4412,0.0047,0.9349,FALSE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","IL6",-0.4276,0.0175,0.7603,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","IL6",-0.353,0.0877,0.0904,FALSE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","IL6",-0.3505,0.0208,0.7222,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","IL6",-0.315,0.0515,0.3489,FALSE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","IL6",-0.3124,-0.0255,0.666,FALSE,TRUE,"literature-supported",FALSE
+"s  Pseudomonas sp. CIP-10","IL6",-0.3111,0.0479,0.3883,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus aureus","IL6",-0.3056,0.0592,0.2766,FALSE,TRUE,"novel",FALSE
+"s  Clostridium tetani","IL6",-0.2726,-0.0305,0.6037,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","IL6",-0.2721,-0.0084,0.8846,FALSE,TRUE,"literature-supported",FALSE
+"s  Spirosoma pollinicola","IL6",-0.2411,0.0646,0.2303,FALSE,TRUE,"novel",FALSE
+"s  Klebsiella pneumoniae","IL6",-0.2339,0.0636,0.2386,FALSE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","IL6",-0.2264,0.023,0.6944,FALSE,TRUE,"novel",FALSE
+"s  Proteus mirabilis","IL6",-0.2004,0.0239,0.6813,FALSE,TRUE,"novel",FALSE
+"s  Vibrio anguillarum","IL6",-0.1887,0.085,0.1016,FALSE,TRUE,"novel",FALSE
+"s  Paraburkholderia fungorum","IL6",-0.1801,-0.0084,0.8846,FALSE,TRUE,"novel",FALSE
+"s  Paraburkholderia fungorum","STAT3",-0.1801,-0.085,0.1017,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","IL6",-0.177,-0.0524,0.3408,FALSE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","IL6",-0.162,-0.0043,0.9381,FALSE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","STAT3",-0.162,-0.097,0.0585,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","IL6",-0.1603,-0.0035,0.9479,FALSE,TRUE,"novel",FALSE
+"s  Actinomyces oris","IL6",-0.1583,0.0125,0.8262,FALSE,TRUE,"novel",FALSE
+"s  Actinomyces oris","STAT3",-0.1583,-0.0962,0.061,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus epidermidis","IL6",-0.158,-0.0953,0.0634,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus epidermidis","STAT3",-0.158,-0.0685,0.1989,FALSE,TRUE,"novel",FALSE
+"s  Escherichia coli","IL6",-0.1572,0.0242,0.68,FALSE,TRUE,"novel",FALSE
+"s  Escherichia coli","STAT3",-0.1572,-0.0996,0.0521,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus simulans","IL6",0.2473,-0.0156,0.7871,FALSE,TRUE,"novel",FALSE

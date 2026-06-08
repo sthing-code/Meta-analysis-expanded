@@ -1,0 +1,3 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Moraxella osloensis","MDM4",-0.1587,-0.0469,0.8819,FALSE,FALSE,"novel",FALSE
+"s  Staphylococcus aureus","MDM4",-0.1501,0.0166,0.9752,FALSE,FALSE,"novel",FALSE

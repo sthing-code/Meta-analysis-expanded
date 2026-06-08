@@ -1,0 +1,19 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Corynebacterium tuberculostearicum","MAPK1",-0.2326,-0.245,0,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","KRAS",-0.2326,-0.2131,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Lawsonella clevelandensis","MAPK1",-0.2303,-0.2595,0,TRUE,TRUE,"novel",FALSE
+"s  Lawsonella clevelandensis","KRAS",-0.2303,-0.2349,0,TRUE,TRUE,"novel",FALSE
+"s  Escherichia coli","MAPK1",-0.2143,-0.1212,0.0312,TRUE,TRUE,"novel",FALSE
+"s  Escherichia coli","KRAS",-0.2143,-0.1502,0.0065,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","MAPK1",-0.2088,-0.202,2e-04,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","KRAS",-0.2088,-0.178,0.001,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. OE 28.3","MAPK1",-0.2077,-0.2823,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. OE 28.3","MAPK3",-0.2077,0.1917,4e-04,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. OE 28.3","KRAS",-0.2077,-0.373,0,TRUE,TRUE,"novel",FALSE
+"s  Prevotella copri","MAPK1",-0.2045,-0.1325,0.0173,TRUE,TRUE,"novel",FALSE
+"s  Prevotella copri","KRAS",-0.2045,-0.1885,5e-04,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","MAPK3",-0.2326,0.0351,0.5996,FALSE,TRUE,"novel",FALSE
+"s  Lawsonella clevelandensis","MAPK3",-0.2303,-0.1025,0.0734,FALSE,TRUE,"novel",FALSE
+"s  Escherichia coli","MAPK3",-0.2143,0.0446,0.4898,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","MAPK3",-0.2088,-0.0392,0.5518,FALSE,TRUE,"novel",FALSE
+"s  Prevotella copri","MAPK3",-0.2045,-0.0997,0.0831,FALSE,TRUE,"novel",FALSE

@@ -1,0 +1,15 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Ideonella dechloratans","STAT3",-0.1665,-0.0808,0.0415,TRUE,TRUE,"novel",FALSE
+"s  Rubrivivax gelatinosus","STAT3",-0.1617,-0.0812,0.0405,TRUE,TRUE,"novel",FALSE
+"s  Mitsuaria sp. 7","STAT3",-0.1599,-0.0806,0.0419,TRUE,TRUE,"novel",FALSE
+"s  Alicycliphilus denitrificans","STAT3",-0.157,-0.0982,0.0113,TRUE,TRUE,"novel",FALSE
+"s  Paucibacter sp. KCTC 42545","STAT3",-0.1549,-0.0822,0.0377,TRUE,TRUE,"novel",FALSE
+"s  Rhizobacter gummiphilus","STAT3",-0.1537,-0.0924,0.0181,TRUE,TRUE,"novel",FALSE
+"s  Methylibium sp. Pch-M","STAT3",-0.1533,-0.0802,0.0428,TRUE,TRUE,"novel",FALSE
+"s  Methylibium petroleiphilum","STAT3",-0.1511,-0.083,0.0357,TRUE,TRUE,"novel",FALSE
+"s  Salmonella enterica","STAT3",-0.1504,-0.1028,0.0077,TRUE,TRUE,"novel",FALSE
+"s  Thauera sp. K11","STAT3",-0.1648,-0.0738,0.064,FALSE,TRUE,"novel",FALSE
+"s  Shinella sp. XGS7","STAT3",-0.1607,-0.0728,0.0681,FALSE,TRUE,"novel",FALSE
+"s  Roseateles depolymerans","STAT3",-0.1558,-0.0753,0.0589,FALSE,TRUE,"novel",FALSE
+"s  Inhella inkyongensis","STAT3",-0.1534,-0.0729,0.0679,FALSE,TRUE,"novel",FALSE
+"s  Rhizobacter sp. AJA081-3","STAT3",-0.1516,-0.0753,0.0589,FALSE,TRUE,"novel",FALSE

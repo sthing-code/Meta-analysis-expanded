@@ -1,0 +1,5 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Klebsiella pneumoniae","KLF4",0.1944,0.0705,0.6008,FALSE,FALSE,"literature-supported",TRUE
+"s  Klebsiella pneumoniae","POU5F1",0.1944,-0.2983,0.0012,TRUE,FALSE,"literature-supported",FALSE
+"s  Pasteurella multocida","KLF4",0.183,-0.0468,0.7322,FALSE,FALSE,"novel",FALSE
+"s  Pasteurella multocida","POU5F1",0.183,-0.1504,0.1697,FALSE,FALSE,"novel",FALSE

@@ -1,0 +1,15 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Staphylococcus simulans","STAT3",0.19,0.2394,0,TRUE,TRUE,"literature-supported",TRUE
+"s  Meiothermus silvanus","STAT3",-0.2555,-0.2945,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","STAT3",-0.238,-0.2511,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Cloacibacterium caeni","STAT3",-0.2139,-0.2046,0,TRUE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","STAT3",-0.1982,-0.1644,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","STAT3",-0.1749,-0.1599,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas chengduensis","STAT3",-0.1536,-0.1254,7e-04,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","IL6",-0.2555,0.0205,0.6801,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","IL6",-0.238,0.054,0.2052,FALSE,TRUE,"literature-supported",FALSE
+"s  Cloacibacterium caeni","IL6",-0.2139,-0.0744,0.0622,FALSE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","IL6",-0.1982,-0.0583,0.1638,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","IL6",-0.1749,-0.0271,0.5689,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas chengduensis","IL6",-0.1536,-0.0574,0.1714,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus simulans","IL6",0.19,-0.0542,0.2029,FALSE,TRUE,"literature-supported",FALSE

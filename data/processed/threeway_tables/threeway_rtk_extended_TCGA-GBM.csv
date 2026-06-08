@@ -1,0 +1,19 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Anaerococcus mediterraneensis","FGFR2",0.1962,0.169,0.3577,FALSE,FALSE,"novel",TRUE
+"s  Anaerococcus mediterraneensis","FGFR3",0.1962,0.0365,0.921,FALSE,FALSE,"novel",TRUE
+"s  Anaerococcus prevotii","FGFR2",0.2022,0.1395,0.461,FALSE,FALSE,"novel",TRUE
+"s  Anaerococcus prevotii","FGFR3",0.2022,0.0971,0.6585,FALSE,FALSE,"novel",TRUE
+"s  Cutibacterium avidum","FGFR2",0.2233,0.0697,0.7926,FALSE,FALSE,"novel",TRUE
+"s  Cutibacterium avidum","FGFR3",0.2233,0.1092,0.5987,FALSE,FALSE,"novel",TRUE
+"s  Actinomyces oris","FGFR2",-0.2046,-0.124,0.5201,FALSE,FALSE,"novel",FALSE
+"s  Actinomyces oris","FGFR3",-0.2046,-0.2392,0.1532,FALSE,FALSE,"novel",FALSE
+"s  Escherichia coli","FGFR2",-0.1831,-0.1025,0.6265,FALSE,FALSE,"novel",FALSE
+"s  Escherichia coli","FGFR3",-0.1831,-0.2088,0.2718,FALSE,FALSE,"novel",FALSE
+"s  Vibrio anguillarum","FGFR2",-0.1761,-0.1144,0.5755,FALSE,FALSE,"novel",FALSE
+"s  Vibrio anguillarum","FGFR3",-0.1761,-0.167,0.3662,FALSE,FALSE,"novel",FALSE
+"s  Staphylococcus aureus","FGFR2",-0.171,-0.0736,0.7741,FALSE,FALSE,"novel",FALSE
+"s  Staphylococcus aureus","FGFR3",-0.171,-0.0635,0.8262,FALSE,FALSE,"novel",FALSE
+"s  Streptococcus thermophilus","FGFR2",-0.1658,-0.1399,0.4596,FALSE,FALSE,"novel",FALSE
+"s  Streptococcus thermophilus","FGFR3",-0.1658,-0.1058,0.6205,FALSE,FALSE,"novel",FALSE
+"s  Moraxella osloensis","FGFR2",-0.1574,-0.027,0.9457,FALSE,FALSE,"novel",FALSE
+"s  Moraxella osloensis","FGFR3",-0.1574,-0.1094,0.5987,FALSE,FALSE,"novel",FALSE

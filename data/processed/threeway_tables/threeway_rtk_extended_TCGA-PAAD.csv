@@ -1,0 +1,3 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Priestia megaterium","FGFR2",0.2909,0.1162,0.3303,FALSE,TRUE,"novel",TRUE
+"s  Priestia megaterium","FGFR3",0.2909,0.1236,0.2931,FALSE,TRUE,"novel",TRUE

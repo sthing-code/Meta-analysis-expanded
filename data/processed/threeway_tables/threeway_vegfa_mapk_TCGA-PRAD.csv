@@ -1,0 +1,10 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Gordonia polyisoprenivorans","MAPK1",-0.1816,-0.563,0,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","KRAS",-0.1816,-0.5373,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","MAPK1",-0.1814,-0.5224,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","KRAS",-0.1814,-0.4354,0,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","MAPK1",-0.1757,-0.6206,0,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","KRAS",-0.1757,-0.5023,0,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","MAPK3",-0.1816,-0.0214,0.7114,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","MAPK3",-0.1814,0.0058,0.9205,FALSE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","MAPK3",-0.1757,-0.0292,0.6191,FALSE,TRUE,"novel",FALSE

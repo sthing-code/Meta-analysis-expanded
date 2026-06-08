@@ -1,0 +1,6 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Streptococcus pneumoniae","STAT3",0.2081,0.0703,0.7883,FALSE,FALSE,"novel",TRUE
+"s  Pseudomonas putida","STAT3",-0.1863,-0.0395,0.9069,FALSE,FALSE,"novel",FALSE
+"s  Pseudomonas citronellolis","STAT3",-0.1629,0.0111,0.9889,FALSE,FALSE,"novel",FALSE
+"s  Streptococcus thermophilus","STAT3",0.1567,-0.2379,0.1558,FALSE,FALSE,"novel",FALSE
+"s  Clostridium tetani","STAT3",0.1577,-0.0805,0.7426,FALSE,FALSE,"novel",FALSE

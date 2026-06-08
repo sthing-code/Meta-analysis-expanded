@@ -1,0 +1,37 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Staphylococcus simulans","GLUD1",0.2744,0.2184,0,TRUE,TRUE,"novel",TRUE
+"s  Meiothermus silvanus","GLUD1",-0.4035,-0.3168,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","GLUD1",-0.3896,-0.253,0,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","GLUD1",-0.3695,-0.2692,0,TRUE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","GLUD1",-0.3372,-0.2111,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","GLUD1",-0.3204,-0.159,0.0013,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","GLUD1",-0.3053,-0.2304,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Spirosoma pollinicola","IDH2",-0.2985,-0.1408,0.0049,TRUE,TRUE,"novel",FALSE
+"s  Spirosoma pollinicola","GLUD1",-0.2985,-0.1675,6e-04,TRUE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","IDH2",-0.2539,-0.1662,7e-04,TRUE,TRUE,"literature-supported",FALSE
+"s  Moraxella osloensis","GLUD1",-0.2539,-0.135,0.0069,TRUE,TRUE,"literature-supported",FALSE
+"s  Pseudomonas sp. CIP-10","IDH2",-0.2518,-0.126,0.0121,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","GLUD1",-0.2518,-0.2101,0,TRUE,TRUE,"novel",FALSE
+"s  Klebsiella pneumoniae","GLUD1",-0.2381,-0.1098,0.0305,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","IDH2",-0.2315,-0.1261,0.0121,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","GLUD1",-0.2315,-0.1602,0.0012,TRUE,TRUE,"novel",FALSE
+"s  Proteus mirabilis","IDH2",-0.2258,-0.1959,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Proteus mirabilis","GLUD1",-0.2258,-0.1535,0.002,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","IDH2",-0.214,-0.1155,0.0225,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","GLUD1",-0.214,-0.1725,4e-04,TRUE,TRUE,"novel",FALSE
+"s  Staphylococcus aureus","GLUD1",-0.2063,-0.1578,0.0014,TRUE,TRUE,"novel",FALSE
+"s  Vibrio anguillarum","IDH2",-0.1962,-0.131,0.0089,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","IDH2",-0.4035,-0.0623,0.2489,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","IDH2",-0.3896,-0.0615,0.2561,FALSE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","IDH2",-0.3695,0.0146,0.7988,FALSE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","IDH2",-0.3372,-0.0764,0.1471,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","IDH2",-0.3204,-0.0577,0.2902,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","IDH2",-0.3053,-0.0262,0.6564,FALSE,TRUE,"literature-supported",FALSE
+"s  Klebsiella pneumoniae","IDH2",-0.2381,-0.0783,0.136,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus aureus","IDH2",-0.2063,-0.0621,0.2504,FALSE,TRUE,"novel",FALSE
+"s  Vibrio anguillarum","GLUD1",-0.1962,-0.0917,0.0749,FALSE,TRUE,"novel",FALSE
+"s  Actinomyces oris","IDH2",-0.179,-0.0849,0.102,FALSE,TRUE,"novel",FALSE
+"s  Actinomyces oris","GLUD1",-0.179,-0.0704,0.1854,FALSE,TRUE,"novel",FALSE
+"s  Clostridium tetani","IDH2",-0.1771,-0.0757,0.1514,FALSE,TRUE,"novel",FALSE
+"s  Clostridium tetani","GLUD1",-0.1771,-0.0432,0.4416,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus simulans","IDH2",0.2744,-0.0222,0.704,FALSE,TRUE,"novel",FALSE

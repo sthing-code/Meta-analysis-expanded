@@ -1,0 +1,13 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Peptoniphilus harei","FGFR2",-0.2298,-0.143,0.0097,TRUE,TRUE,"novel",FALSE
+"s  Peptoniphilus harei","FGFR3",-0.2298,-0.1144,0.0431,TRUE,TRUE,"novel",FALSE
+"s  Lachnoanaerobaculum umeaense","FGFR3",-0.2225,-0.1478,0.0075,TRUE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","FGFR3",-0.2094,-0.1248,0.0259,TRUE,TRUE,"novel",FALSE
+"s  Leptotrichia wadei","FGFR2",-0.2779,-0.0494,0.4348,FALSE,TRUE,"novel",FALSE
+"s  Leptotrichia wadei","FGFR3",-0.2779,-0.1068,0.0607,FALSE,TRUE,"novel",FALSE
+"s  Lachnoanaerobaculum umeaense","FGFR2",-0.2225,-0.0442,0.4952,FALSE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","FGFR2",-0.2094,-0.0966,0.0947,FALSE,TRUE,"novel",FALSE
+"s  Parvimonas micra","FGFR2",-0.2067,-0.0993,0.0845,FALSE,TRUE,"literature-supported",FALSE
+"s  Parvimonas micra","FGFR3",-0.2067,-0.0208,0.7645,FALSE,TRUE,"literature-supported",FALSE
+"s  Bacteroides fragilis","FGFR2",-0.201,-0.0333,0.6199,FALSE,TRUE,"literature-supported",FALSE
+"s  Bacteroides fragilis","FGFR3",-0.201,-0.0992,0.0846,FALSE,TRUE,"literature-supported",FALSE

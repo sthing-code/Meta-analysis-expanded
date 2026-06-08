@@ -1,0 +1,43 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Leptolyngbya sp. 7M","GLUD1",-0.2691,-0.2848,0,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium avidum","GLUD1",-0.2572,-0.2604,0,TRUE,TRUE,"novel",FALSE
+"s  Ruthenibacterium lactatiformans","GLUD1",-0.2375,-0.2566,0,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium ureicelerivorans","GLUD1",-0.236,-0.2608,0,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","IDH2",-0.2354,-0.1175,0.0372,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","GLUD1",-0.2354,-0.2977,0,TRUE,TRUE,"novel",FALSE
+"s  Limnohabitans sp. 63ED37-2","IDH2",-0.2353,0.172,0.0016,TRUE,TRUE,"novel",FALSE
+"s  Limnohabitans sp. 63ED37-2","GLUD1",-0.2353,-0.3308,0,TRUE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","GLUD1",-0.2298,-0.2603,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Sphingomonas sp. FARSPH","GLUD1",-0.2288,-0.2063,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Hydrogenophaga sp. NH-16","GLUD1",-0.2287,-0.2061,1e-04,TRUE,TRUE,"novel",FALSE
+"s  [Clostridium] scindens","IDH2",-0.2281,-0.1465,0.0081,TRUE,TRUE,"novel",FALSE
+"s  [Clostridium] scindens","GLUD1",-0.2281,-0.2103,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Alistipes onderdonkii","IDH2",-0.226,-0.1736,0.0014,TRUE,TRUE,"novel",FALSE
+"s  Alistipes onderdonkii","GLUD1",-0.226,-0.2067,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas stutzeri","GLUD1",-0.2251,-0.2307,0,TRUE,TRUE,"novel",FALSE
+"s  Erysipelatoclostridium ramosum","IDH2",-0.2244,-0.147,0.0078,TRUE,TRUE,"novel",FALSE
+"s  Erysipelatoclostridium ramosum","GLUD1",-0.2244,-0.1419,0.0103,TRUE,TRUE,"novel",FALSE
+"s  Peptoniphilus harei","IDH2",-0.2229,-0.1708,0.0017,TRUE,TRUE,"novel",FALSE
+"s  Peptoniphilus harei","GLUD1",-0.2229,-0.225,0,TRUE,TRUE,"novel",FALSE
+"s  Clostridium tetani","GLUD1",-0.2228,-0.1737,0.0014,TRUE,TRUE,"literature-supported",FALSE
+"s  Corynebacterium kroppenstedtii","GLUD1",-0.2199,-0.231,0,TRUE,TRUE,"novel",FALSE
+"s  Limnohabitans sp. 103DPR2","IDH2",-0.2118,0.1704,0.0018,TRUE,TRUE,"novel",FALSE
+"s  Limnohabitans sp. 103DPR2","GLUD1",-0.2118,-0.3172,0,TRUE,TRUE,"novel",FALSE
+"s  Flavonifractor plautii","IDH2",-0.2091,-0.13,0.0199,TRUE,TRUE,"novel",FALSE
+"s  Flavonifractor plautii","GLUD1",-0.2091,-0.2115,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Actinomyces oris","GLUD1",-0.2089,-0.2235,0,TRUE,TRUE,"novel",FALSE
+"s  Vescimonas coprocola","GLUD1",-0.2077,-0.2014,2e-04,TRUE,TRUE,"novel",FALSE
+"s  Methylorubrum populi","GLUD1",-0.2039,-0.2457,0,TRUE,TRUE,"novel",FALSE
+"s  Leptolyngbya sp. 7M","IDH2",-0.2691,-0.0484,0.4465,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium avidum","IDH2",-0.2572,-0.1007,0.0795,FALSE,TRUE,"novel",FALSE
+"s  Ruthenibacterium lactatiformans","IDH2",-0.2375,-0.0587,0.342,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium ureicelerivorans","IDH2",-0.236,-0.0983,0.0879,FALSE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","IDH2",-0.2298,-0.0309,0.6489,FALSE,TRUE,"literature-supported",FALSE
+"s  Sphingomonas sp. FARSPH","IDH2",-0.2288,0.0406,0.5352,FALSE,TRUE,"novel",FALSE
+"s  Hydrogenophaga sp. NH-16","IDH2",-0.2287,0.0164,0.8169,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas stutzeri","IDH2",-0.2251,-0.0271,0.6898,FALSE,TRUE,"novel",FALSE
+"s  Clostridium tetani","IDH2",-0.2228,-0.1005,0.0803,FALSE,TRUE,"literature-supported",FALSE
+"s  Corynebacterium kroppenstedtii","IDH2",-0.2199,-0.048,0.4505,FALSE,TRUE,"novel",FALSE
+"s  Actinomyces oris","IDH2",-0.2089,0.0045,0.9521,FALSE,TRUE,"novel",FALSE
+"s  Vescimonas coprocola","IDH2",-0.2077,-0.0391,0.5532,FALSE,TRUE,"novel",FALSE
+"s  Methylorubrum populi","IDH2",-0.2039,-0.0065,0.9298,FALSE,TRUE,"novel",FALSE

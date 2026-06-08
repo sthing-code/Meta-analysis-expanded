@@ -1,0 +1,21 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Staphylococcus simulans","STAT3",0.3518,0.4095,0,TRUE,TRUE,"novel",TRUE
+"s  Staphylococcus simulans","IL6",0.3518,0.1921,0.0613,FALSE,TRUE,"novel",TRUE
+"s  Meiothermus silvanus","STAT3",-0.3827,-0.3775,0,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","STAT3",-0.361,-0.3752,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","STAT3",-0.3543,-0.4098,0,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","STAT3",-0.2798,-0.272,0.0035,TRUE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","STAT3",-0.2761,-0.2806,0.0027,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","IL6",-0.3827,-0.0689,0.6104,FALSE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","IL6",-0.361,-0.1335,0.2407,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","IL6",-0.3543,-0.1233,0.2943,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","IL6",-0.2798,-0.0147,0.9332,FALSE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","IL6",-0.2761,-0.0653,0.6377,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium modestum","IL6",-0.2304,-0.0064,0.9813,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium modestum","STAT3",-0.2304,-0.1819,0.0823,FALSE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","IL6",-0.1935,0.0978,0.431,FALSE,FALSE,"novel",FALSE
+"s  Pasteurella multocida","STAT3",-0.1935,-0.1805,0.0862,FALSE,FALSE,"novel",FALSE
+"s  Kinneretia sp. DAIF2","IL6",-0.1754,-0.0037,0.9844,FALSE,FALSE,"novel",FALSE
+"s  Kinneretia sp. DAIF2","STAT3",-0.1754,-0.1743,0.101,FALSE,FALSE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","IL6",-0.1547,0.0011,0.9949,FALSE,FALSE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","STAT3",-0.1547,-0.0868,0.4982,FALSE,FALSE,"novel",FALSE

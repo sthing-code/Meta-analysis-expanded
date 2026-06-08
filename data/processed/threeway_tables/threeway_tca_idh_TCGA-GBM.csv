@@ -1,0 +1,3 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Cutibacterium avidum","IDH2",0.179,0.1045,0.6253,FALSE,FALSE,"novel",TRUE
+"s  Cutibacterium avidum","GLUD1",0.179,0.132,0.4698,FALSE,FALSE,"novel",TRUE

@@ -1,0 +1,43 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Pseudomonas sp. CIP-10","CTNNB1",0.1822,0.0803,0.0426,TRUE,TRUE,"novel",TRUE
+"s  Escherichia coli","CTNNB1",0.2292,0.1391,1e-04,TRUE,TRUE,"literature-supported",TRUE
+"s  Escherichia coli","CCND1",0.2292,0.0834,0.0347,TRUE,TRUE,"literature-supported",TRUE
+"s  Staphylococcus simulans","CTNNB1",0.4254,0.268,0,TRUE,TRUE,"literature-supported",TRUE
+"s  Staphylococcus simulans","CCND1",0.4254,0.1287,5e-04,TRUE,TRUE,"literature-supported",TRUE
+"s  Pseudomonas sp. CIP-10","CCND1",0.1822,0.068,0.0935,FALSE,TRUE,"novel",TRUE
+"s  Meiothermus silvanus","CTNNB1",-0.4074,-0.2777,0,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","CCND1",-0.4074,-0.1513,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","CTNNB1",-0.3769,-0.238,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Sphingomonas melonis","CCND1",-0.3769,-0.1487,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Burkholderia contaminans","CTNNB1",-0.2719,-0.1796,0,TRUE,TRUE,"novel",FALSE
+"s  Burkholderia contaminans","CCND1",-0.2719,-0.1316,3e-04,TRUE,TRUE,"novel",FALSE
+"s  Methylorubrum populi","CTNNB1",-0.2297,-0.161,0,TRUE,TRUE,"novel",FALSE
+"s  Methylorubrum populi","CCND1",-0.2297,-0.1383,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","CTNNB1",-0.2098,-0.1107,0.0036,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","MYC",-0.2098,-0.1127,0.003,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","CCND1",-0.2098,-0.1005,0.0093,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas mendocina","CTNNB1",-0.1978,-0.1238,8e-04,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas mendocina","CCND1",-0.1978,-0.1009,0.009,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","CTNNB1",-0.188,-0.1494,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","MYC",-0.188,-0.0993,0.0105,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sihuiensis","CCND1",-0.188,-0.088,0.0247,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","CTNNB1",-0.1821,-0.1596,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","CCND1",-0.1821,-0.1005,0.0093,TRUE,TRUE,"novel",FALSE
+"s  Cloacibacterium caeni","CTNNB1",-0.1549,-0.2032,0,TRUE,TRUE,"novel",FALSE
+"s  Cloacibacterium caeni","MYC",-0.1549,-0.1408,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Cloacibacterium caeni","CCND1",-0.1549,-0.0911,0.0201,TRUE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","CTNNB1",-0.1533,-0.1491,0,TRUE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","CCND1",-0.1533,-0.0989,0.0107,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","MYC",-0.4074,-0.0469,0.2852,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","MYC",-0.3769,-0.0577,0.1693,FALSE,TRUE,"literature-supported",FALSE
+"s  Burkholderia contaminans","MYC",-0.2719,8e-04,0.99,FALSE,TRUE,"novel",FALSE
+"s  Methylorubrum populi","MYC",-0.2297,0.0077,0.8851,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas mendocina","MYC",-0.1978,-0.0099,0.8513,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","MYC",-0.1821,-0.0466,0.2888,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas yamanorum","CTNNB1",-0.1638,-0.0657,0.1064,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas yamanorum","MYC",-0.1638,0.0173,0.7326,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas yamanorum","CCND1",-0.1638,-0.0647,0.1122,FALSE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","MYC",-0.1533,-0.0511,0.2362,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. CIP-10","MYC",0.1822,-0.0735,0.0653,FALSE,TRUE,"novel",FALSE
+"s  Escherichia coli","MYC",0.2292,-0.0554,0.1909,FALSE,TRUE,"literature-supported",FALSE
+"s  Staphylococcus simulans","MYC",0.4254,-0.0254,0.5945,FALSE,TRUE,"literature-supported",FALSE

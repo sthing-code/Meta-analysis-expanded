@@ -1,0 +1,5 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Meiothermus silvanus","MDM4",-0.2289,-0.1374,0.0061,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","MDM4",-0.2056,-0.1144,0.0237,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","MDM4",-0.1745,-0.1232,0.0143,TRUE,TRUE,"literature-supported",FALSE
+"s  Staphylococcus simulans","MDM4",0.2442,-0.0765,0.1465,FALSE,TRUE,"novel",FALSE

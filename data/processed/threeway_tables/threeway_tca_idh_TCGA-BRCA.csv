@@ -1,0 +1,7 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Staphylococcus simulans","GLUD1",0.2086,0.2388,0,TRUE,TRUE,"literature-supported",TRUE
+"s  Meiothermus silvanus","GLUD1",-0.199,-0.2127,0,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","GLUD1",-0.1554,-0.2142,0,TRUE,TRUE,"literature-supported",FALSE
+"s  Meiothermus silvanus","IDH2",-0.199,-0.0295,0.5294,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","IDH2",-0.1554,-0.0119,0.8214,FALSE,TRUE,"literature-supported",FALSE
+"s  Staphylococcus simulans","IDH2",0.2086,-0.0049,0.9305,FALSE,TRUE,"literature-supported",FALSE

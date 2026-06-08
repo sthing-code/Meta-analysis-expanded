@@ -1,0 +1,46 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Staphylococcus simulans","CTNNB1",0.5273,0.3003,0.0011,TRUE,TRUE,"novel",TRUE
+"s  Pseudomonas sp. CIP-10","CTNNB1",0.1615,0.1586,0.1426,FALSE,FALSE,"literature-supported",TRUE
+"s  Pseudomonas sp. CIP-10","MYC",0.1615,0.1318,0.2499,FALSE,FALSE,"literature-supported",TRUE
+"s  Pseudomonas sp. CIP-10","CCND1",0.1615,0.0663,0.6298,FALSE,FALSE,"literature-supported",TRUE
+"s  Vibrio anguillarum","CTNNB1",0.1617,0.1922,0.0613,FALSE,FALSE,"novel",TRUE
+"s  Vibrio anguillarum","CCND1",0.1617,0.0435,0.7384,FALSE,FALSE,"novel",TRUE
+"s  Actinomyces oris","CTNNB1",0.1887,0.0637,0.6501,FALSE,FALSE,"novel",TRUE
+"s  Actinomyces oris","MYC",0.1887,0.0203,0.8991,FALSE,FALSE,"novel",TRUE
+"s  Staphylococcus capitis","CTNNB1",0.2355,0.1755,0.0983,FALSE,TRUE,"novel",TRUE
+"s  Staphylococcus capitis","MYC",0.2355,0.0541,0.7059,FALSE,TRUE,"novel",TRUE
+"s  Staphylococcus capitis","CCND1",0.2355,0.0425,0.7418,FALSE,TRUE,"novel",TRUE
+"s  Staphylococcus simulans","MYC",0.5273,0.1451,0.1874,FALSE,TRUE,"novel",TRUE
+"s  Staphylococcus simulans","CCND1",0.5273,0.1478,0.178,FALSE,TRUE,"novel",TRUE
+"s  Sphingomonas melonis","CTNNB1",-0.5475,-0.347,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","CTNNB1",-0.481,-0.276,0.003,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","CTNNB1",-0.4774,-0.3434,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","CCND1",-0.4774,-0.2465,0.0105,TRUE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","CTNNB1",-0.281,-0.2432,0.012,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","CTNNB1",-0.2643,-0.2015,0.0478,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","MYC",-0.5475,-0.1027,0.3934,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas melonis","CCND1",-0.5475,-0.1986,0.0511,FALSE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","MYC",-0.481,-0.1605,0.1355,FALSE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","CCND1",-0.481,-0.1473,0.1784,FALSE,TRUE,"novel",FALSE
+"s  Meiothermus silvanus","MYC",-0.4774,-0.1556,0.1524,FALSE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","MYC",-0.281,-0.0971,0.4337,FALSE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","CCND1",-0.281,-0.1248,0.2861,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium modestum","CTNNB1",-0.2783,-0.1219,0.2998,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium modestum","MYC",-0.2783,-0.0414,0.7495,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium modestum","CCND1",-0.2783,-0.0422,0.743,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","MYC",-0.2643,-0.1437,0.1927,FALSE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","CCND1",-0.2643,-0.0867,0.4982,FALSE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","CTNNB1",-0.2505,-0.0584,0.6863,FALSE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","MYC",-0.2505,-0.0018,0.9916,FALSE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","CCND1",-0.2505,-0.1082,0.3718,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","CTNNB1",-0.2267,0.0291,0.8329,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","MYC",-0.2267,-0.1139,0.3441,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","CCND1",-0.2267,-0.046,0.7322,FALSE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","CTNNB1",-0.217,-0.1395,0.2098,FALSE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","MYC",-0.217,-0.0739,0.5826,FALSE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","CCND1",-0.217,-0.1116,0.3576,FALSE,TRUE,"novel",FALSE
+"s  Kinneretia sp. DAIF2","CTNNB1",-0.1978,-0.1133,0.3475,FALSE,FALSE,"novel",FALSE
+"s  Kinneretia sp. DAIF2","MYC",-0.1978,-0.0615,0.6643,FALSE,FALSE,"novel",FALSE
+"s  Kinneretia sp. DAIF2","CCND1",-0.1978,-0.0778,0.5625,FALSE,FALSE,"novel",FALSE
+"s  Vibrio anguillarum","MYC",0.1617,-0.0595,0.6755,FALSE,FALSE,"novel",FALSE
+"s  Actinomyces oris","CCND1",0.1887,-0.0062,0.9813,FALSE,FALSE,"novel",FALSE

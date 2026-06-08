@@ -170,10 +170,7 @@ run_threeway_axis <- function(cancer_type, axis_name,
     mutate(
       gene_type   = ifelse(gene == axis$primary, "Primary", "Downstream"),
       sig         = !is.na(q) & q < q_threshold,
-      evidence    = sapply(bacterium, function(b) flag_bacterium(b, cancer_type)),
-      label_bact  = ifelse(abs(r_primary) >= 0.25 & abs(r) >= 0.20 & sig,
-                           sub("^s__", "", gsub("_", " ", bacterium)),
-                           NA_character_)
+      evidence    = sapply(bacterium, function(b) flag_bacterium(b, cancer_type))
     )
 
   # ── Bubble plot ───────────────────────────────────────────────────────────────
@@ -181,13 +178,16 @@ run_threeway_axis <- function(cancer_type, axis_name,
   # One panel per downstream gene, plus the primary gene on x-axis
 
   primary_r  <- df %>% filter(gene == axis$primary) %>%
-    select(bacterium, r_primary = r, evidence)
+    select(bacterium, r_primary = r, q_primary = q, evidence)
 
   downstream_df <- df %>%
     filter(gene != axis$primary) %>%
     left_join(primary_r, by = c("bacterium", "evidence")) %>%
     mutate(
-      bacterium_clean = sub("^s__", "", gsub("_", " ", bacterium))
+      bacterium_clean = sub("^s__", "", gsub("_", " ", bacterium)),
+      sig_downstream  = !is.na(q) & q < q_threshold,
+      sig_primary     = !is.na(q_primary) & q_primary < q_threshold,
+      sig_both        = sig_downstream & sig_primary
     )
 
   if (nrow(downstream_df) == 0 || length(unique(downstream_df$gene)) == 0) {
@@ -205,13 +205,13 @@ run_threeway_axis <- function(cancer_type, axis_name,
     geom_vline(xintercept = c(-r_primary, r_primary),
                linetype = "dotted", colour = "grey80", linewidth = 0.3) +
     geom_point(alpha = 0.75) +
-    geom_text_repel(
-      aes(label = label_bact),
-      size = 2.5,
-      max.overlaps = 15,
-      segment.colour = "grey50",
-      segment.size   = 0.3,
-      fontface       = "italic"
+    geom_point(
+      data   = downstream_df %>% filter(sig_downstream),
+      shape  = 8,
+      colour = "black",
+      size   = 1.5,
+      stroke = 0.4,
+      alpha  = 1
     ) +
     scale_size_continuous(range = c(1.5, 6), guide = "none") +
     scale_colour_manual(
@@ -224,26 +224,55 @@ run_threeway_axis <- function(cancer_type, axis_name,
     guides(colour = guide_legend(override.aes = list(size = 4))) +
     facet_wrap(~ gene, scales = "free_y") +
     labs(
-      x        = paste0("r (bacterium × ", axis$primary, ")"),
-      y        = "r (bacterium × downstream gene)",
-      title    = paste0(cfg$label, " — ", axis$label),
+      x        = paste0("r (bacterium x ", axis$primary, ")"),
+      y        = "r (bacterium x downstream gene)",
+      title    = paste0(cfg$label, " - ", axis$label),
       subtitle = paste0("Bacteria with |r| > ", r_primary, " with ", axis$primary,
-                        " | Stars = q < ", q_threshold,
+                        " | * = q < ", q_threshold,
                         " | n = ", cor_data$n_samples, " tumours"),
-      caption  = paste0("★ = significant (BH q < ", q_threshold, "). ",
-                        "Dashed lines at r = ±", r_primary, ".")
+      caption  = paste0("* = significant (BH q < ", q_threshold, "). ",
+                        "Dashed lines at r = +/-", r_primary, ".")
     ) +
     theme_manuscript()
 
-  # ── Save ──────────────────────────────────────────────────────────────────────
+  # ── Summary table ─────────────────────────────────────────────────────────────
+
+  tbl <- downstream_df %>%
+    select(bacterium_clean, gene, r_primary, r, q, sig_downstream,
+           sig_primary, evidence) %>%
+    mutate(
+      upper_right = r_primary > 0 & r > 0,
+      r_primary   = round(r_primary, 4),
+      r           = round(r, 4),
+      q           = round(q, 4)
+    ) %>%
+    arrange(desc(upper_right), desc(sig_downstream), r_primary)
+
+  ur <- tbl %>% filter(upper_right)
+  if (nrow(ur) > 0) {
+    message("\n  *** Upper-right quadrant bacteria (positive concordance) ***")
+    print(ur %>% select(bacterium_clean, gene, r_primary, r, q,
+                        sig_downstream, evidence), n = Inf)
+  } else {
+    message("\n  No bacteria in upper-right quadrant for ", axis$label)
+  }
+
+  tbl_dir  <- here("data/processed/threeway_tables")
+  dir.create(tbl_dir, showWarnings = FALSE, recursive = TRUE)
+  tbl_path <- file.path(tbl_dir,
+                        paste0("threeway_", axis_name, "_", project, ".csv"))
+  write.csv(tbl, tbl_path, row.names = FALSE)
+  message("  Table saved: ", tbl_path)
+
+  # ── Save figure ───────────────────────────────────────────────────────────────
   base_fn <- file.path(here(cfg$figures_dir),
                         paste0("threeway_", axis_name, "_", project))
 
   fig_h <- 5
   fig_w <- max(8, 4 * length(unique(downstream_df$gene)))
 
-  ggsave(paste0(base_fn, ".pdf"), p, width = fig_w, height = fig_h)
-  ggsave(paste0(base_fn, ".png"), p, width = fig_w, height = fig_h, dpi = 300)
+  suppressWarnings(ggsave(paste0(base_fn, ".pdf"), p, width = fig_w, height = fig_h))
+  suppressWarnings(ggsave(paste0(base_fn, ".png"), p, width = fig_w, height = fig_h, dpi = 300))
 
   message("  Saved: ", base_fn, ".pdf / .png")
   return(invisible(p))
@@ -264,13 +293,14 @@ run_threeway_for_cancer <- function(cancer_type) {
 }
 
 # ── Run ───────────────────────────────────────────────────────────────────────
-
-# v2.1: re-running original four cancer types on expanded gene panel.
+# Expanded project: all THREEWAY_AXES are run for each cancer type.
+# Axes whose primary gene is absent from a cancer's correlation matrix are
+# skipped silently by run_threeway_axis. GBM is included.
 
 run_threeway_for_cancer("colon")
 run_threeway_for_cancer("breast")
 run_threeway_for_cancer("pancreatic")
 run_threeway_for_cancer("prostate")
-# run_threeway_for_cancer("glioblastoma")   # already run in v2.0; re-run regenerates figures for consistency
+run_threeway_for_cancer("glioblastoma")
 
 message("\nThree-way correlation analysis complete.")

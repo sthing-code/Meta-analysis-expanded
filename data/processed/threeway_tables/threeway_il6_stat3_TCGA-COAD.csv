@@ -1,0 +1,6 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  [Ruminococcus] torques","STAT3",0.2054,0.0239,0.7297,FALSE,TRUE,"novel",TRUE
+"s  Fusobacterium nucleatum","STAT3",0.2049,-0.0995,0.0839,FALSE,TRUE,"literature-supported",FALSE
+"s  Selenomonas sputigena","STAT3",0.207,-0.0474,0.4566,FALSE,TRUE,"novel",FALSE
+"s  Enterocloster bolteae","STAT3",0.2291,-0.0295,0.6641,FALSE,TRUE,"novel",FALSE
+"s  Bacteroides fragilis","STAT3",0.2468,-0.0614,0.3167,FALSE,TRUE,"literature-supported",FALSE

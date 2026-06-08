@@ -1,0 +1,205 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Streptomyces lividans","CCND1",0.3024,0.1432,0.0096,TRUE,TRUE,"novel",TRUE
+"s  Priestia megaterium","CCND1",0.2576,0.0497,0.4309,FALSE,TRUE,"novel",TRUE
+"s  Streptomyces lividans","CTNNB1",0.3024,0.0263,0.7005,FALSE,TRUE,"novel",TRUE
+"s  Streptomyces lividans","MYC",0.3024,0.0321,0.6344,FALSE,TRUE,"novel",TRUE
+"s  Aquirufa sp. 9H-EGSE","CCND1",-0.4875,-0.2156,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Limnohabitans sp. 63ED37-2","CCND1",-0.4489,-0.1421,0.0102,TRUE,TRUE,"novel",FALSE
+"s  Limnohabitans sp. 103DPR2","CCND1",-0.4483,-0.171,0.0017,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. OE 28.3","CCND1",-0.4384,-0.2139,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Candidatus Planktophila sulfonica","CCND1",-0.4213,-0.1663,0.0023,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas panacisoli","CCND1",-0.4206,-0.1761,0.0012,TRUE,TRUE,"novel",FALSE
+"s  Mycolicibacterium phocaicum","CTNNB1",-0.3962,-0.1137,0.0445,TRUE,TRUE,"novel",FALSE
+"s  Mycolicibacterium phocaicum","CCND1",-0.3962,-0.1467,0.0079,TRUE,TRUE,"novel",FALSE
+"s  Aurantimicrobium photophilum","CCND1",-0.3919,-0.1478,0.0075,TRUE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. Adler-ghost","CCND1",-0.3897,-0.119,0.0347,TRUE,TRUE,"novel",FALSE
+"s  Rhodoluna limnophila","CCND1",-0.3816,-0.1292,0.0208,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas stutzeri","CTNNB1",-0.3796,-0.1827,7e-04,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas stutzeri","CCND1",-0.3796,-0.2038,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. JS-JIR-II-b4","CCND1",-0.379,-0.1664,0.0023,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","CTNNB1",-0.3739,-0.1609,0.0033,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","MYC",-0.3739,-0.1465,0.008,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium acnes","CCND1",-0.3739,-0.2742,0,TRUE,TRUE,"novel",FALSE
+"s  Candidatus Planktophila dulcis","CCND1",-0.3701,-0.1401,0.0113,TRUE,TRUE,"novel",FALSE
+"s  Rhodoluna lacicola","CCND1",-0.3636,-0.133,0.0169,TRUE,TRUE,"novel",FALSE
+"s  Pantoea agglomerans","CCND1",-0.3603,-0.2081,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Lactobacillus iners","CCND1",-0.3566,-0.1816,8e-04,TRUE,TRUE,"novel",FALSE
+"s  Candidatus Planktophila lacus","CCND1",-0.3559,-0.1625,0.003,TRUE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. MWH-Aus1W21","CCND1",-0.3543,-0.1413,0.0106,TRUE,TRUE,"novel",FALSE
+"s  Polynucleobacter asymbioticus","CCND1",-0.3453,-0.1157,0.0406,TRUE,TRUE,"novel",FALSE
+"s  Sphingorhabdus lacus","CCND1",-0.343,-0.1533,0.0054,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium sp. NML98-0116","CCND1",-0.3428,-0.1961,3e-04,TRUE,TRUE,"novel",FALSE
+"s  Rothia dentocariosa","CCND1",-0.341,-0.1711,0.0017,TRUE,TRUE,"novel",FALSE
+"s  Polynucleobacter difficilis","CCND1",-0.3343,-0.1445,0.009,TRUE,TRUE,"novel",FALSE
+"s  Ramlibacter tataouinensis","CCND1",-0.3334,-0.1889,5e-04,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium matruchotii","CCND1",-0.3332,-0.2424,0,TRUE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","CTNNB1",-0.3202,-0.1465,0.0081,TRUE,TRUE,"literature-supported",FALSE
+"s  Clostridium botulinum","CCND1",-0.3202,-0.1778,0.001,TRUE,TRUE,"literature-supported",FALSE
+"s  Salmonella enterica","CTNNB1",-0.3178,-0.1252,0.0254,TRUE,TRUE,"literature-supported",FALSE
+"s  Salmonella enterica","CCND1",-0.3178,-0.2147,1e-04,TRUE,TRUE,"literature-supported",FALSE
+"s  Cutibacterium granulosum","CTNNB1",-0.3071,-0.1737,0.0014,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium granulosum","MYC",-0.3071,-0.1503,0.0065,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium granulosum","CCND1",-0.3071,-0.2506,0,TRUE,TRUE,"novel",FALSE
+"s  Nocardioides sambongensis","CCND1",-0.3062,-0.1245,0.0262,TRUE,TRUE,"novel",FALSE
+"s  Schaalia odontolytica","CTNNB1",-0.3047,-0.118,0.0363,TRUE,TRUE,"novel",FALSE
+"s  Schaalia odontolytica","MYC",-0.3047,-0.1258,0.0245,TRUE,TRUE,"novel",FALSE
+"s  Schaalia odontolytica","CCND1",-0.3047,-0.2018,2e-04,TRUE,TRUE,"novel",FALSE
+"s  Polynucleobacter necessarius","CCND1",-0.3021,-0.146,0.0083,TRUE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","CTNNB1",-0.295,-0.2132,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","CCND1",-0.295,-0.2202,0,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas fluorescens","CCND1",-0.2901,-0.1459,0.0083,TRUE,TRUE,"novel",FALSE
+"s  Fluviibacter phosphoraccumulans","CCND1",-0.2881,-0.1533,0.0054,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium kroppenstedtii","CTNNB1",-0.2873,-0.177,0.0011,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium kroppenstedtii","CCND1",-0.2873,-0.2216,0,TRUE,TRUE,"novel",FALSE
+"s  Leptolyngbya sp. 7M","CTNNB1",-0.2843,-0.1964,3e-04,TRUE,TRUE,"novel",FALSE
+"s  Leptolyngbya sp. 7M","CCND1",-0.2843,-0.1831,7e-04,TRUE,TRUE,"novel",FALSE
+"s  Actinomyces oris","CCND1",-0.2824,-0.1839,7e-04,TRUE,TRUE,"novel",FALSE
+"s  Tepidimonas taiwanensis","CCND1",-0.2751,-0.1621,0.0031,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas sp. FARSPH","CCND1",-0.2743,-0.1706,0.0017,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium coyleae","MYC",-0.2685,-0.1251,0.0254,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium coyleae","CCND1",-0.2685,-0.142,0.0102,TRUE,TRUE,"novel",FALSE
+"s  Streptococcus thermophilus","CCND1",-0.2681,-0.1389,0.0122,TRUE,TRUE,"literature-supported",FALSE
+"s  Pseudomonas putida","CTNNB1",-0.2674,-0.1391,0.012,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas putida","CCND1",-0.2674,-0.185,6e-04,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","CTNNB1",-0.2649,-0.181,8e-04,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","MYC",-0.2649,-0.1521,0.0058,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium tuberculostearicum","CCND1",-0.2649,-0.1792,0.001,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","CTNNB1",-0.2639,-0.1284,0.0215,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","CCND1",-0.2639,-0.1646,0.0026,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium ureicelerivorans","CTNNB1",-0.2573,-0.1941,3e-04,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium ureicelerivorans","MYC",-0.2573,-0.1543,0.0051,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium ureicelerivorans","CCND1",-0.2573,-0.2047,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas aeruginosa","CTNNB1",-0.2555,-0.1968,3e-04,TRUE,TRUE,"novel",FALSE
+"s  Pseudomonas aeruginosa","CCND1",-0.2555,-0.177,0.0011,TRUE,TRUE,"novel",FALSE
+"s  Lawsonella clevelandensis","CTNNB1",-0.2442,-0.2413,0,TRUE,TRUE,"novel",FALSE
+"s  Lawsonella clevelandensis","MYC",-0.2442,-0.1632,0.0029,TRUE,TRUE,"novel",FALSE
+"s  Lawsonella clevelandensis","CCND1",-0.2442,-0.2599,0,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","CTNNB1",-0.2434,-0.1436,0.0094,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","MYC",-0.2434,-0.1113,0.0495,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus mediterraneensis","CCND1",-0.2434,-0.2102,1e-04,TRUE,TRUE,"novel",FALSE
+"s  Hydrogenophaga sp. NH-16","CCND1",-0.2402,-0.1193,0.0343,TRUE,TRUE,"novel",FALSE
+"s  Escherichia marmotae","CCND1",-0.2367,-0.1716,0.0016,TRUE,TRUE,"novel",FALSE
+"s  Streptococcus gordonii","CCND1",-0.2237,-0.1736,0.0014,TRUE,TRUE,"literature-supported",FALSE
+"s  Finegoldia magna","CTNNB1",-0.2221,-0.1438,0.0093,TRUE,TRUE,"novel",FALSE
+"s  Finegoldia magna","MYC",-0.2221,-0.1406,0.011,TRUE,TRUE,"novel",FALSE
+"s  Finegoldia magna","CCND1",-0.2221,-0.1961,3e-04,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium kefirresidentii","CTNNB1",-0.2206,-0.1314,0.0184,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium kefirresidentii","MYC",-0.2206,-0.1205,0.0322,TRUE,TRUE,"novel",FALSE
+"s  Corynebacterium kefirresidentii","CCND1",-0.2206,-0.2593,0,TRUE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","CTNNB1",-0.2199,-0.154,0.0052,TRUE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","CCND1",-0.2199,-0.1679,0.0021,TRUE,TRUE,"novel",FALSE
+"s  Escherichia coli","CCND1",-0.2167,-0.1271,0.023,TRUE,TRUE,"novel",FALSE
+"s  Methylorubrum populi","MYC",-0.2147,-0.1126,0.0468,TRUE,TRUE,"novel",FALSE
+"s  Anaerococcus prevotii","CCND1",-0.2113,-0.1562,0.0045,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas alpina","CTNNB1",-0.2048,-0.1174,0.0374,TRUE,TRUE,"novel",FALSE
+"s  Sphingomonas alpina","CCND1",-0.2048,-0.1963,3e-04,TRUE,TRUE,"novel",FALSE
+"s  Prevotella melaninogenica","CCND1",-0.2045,-0.1256,0.0248,TRUE,TRUE,"novel",FALSE
+"s  Gardnerella vaginalis","CCND1",-0.2,-0.1187,0.035,TRUE,TRUE,"novel",FALSE
+"s  Klebsiella pneumoniae","MYC",0.2075,-0.1145,0.043,TRUE,TRUE,"novel",FALSE
+"s  Aquirufa sp. 9H-EGSE","CTNNB1",-0.4875,-0.0642,0.2922,FALSE,TRUE,"novel",FALSE
+"s  Aquirufa sp. 9H-EGSE","MYC",-0.4875,0.0027,0.9726,FALSE,TRUE,"novel",FALSE
+"s  Limnohabitans sp. 63ED37-2","CTNNB1",-0.4489,-0.107,0.0601,FALSE,TRUE,"novel",FALSE
+"s  Limnohabitans sp. 63ED37-2","MYC",-0.4489,-0.0062,0.9319,FALSE,TRUE,"novel",FALSE
+"s  Limnohabitans sp. 103DPR2","CTNNB1",-0.4483,-0.0951,0.1005,FALSE,TRUE,"novel",FALSE
+"s  Limnohabitans sp. 103DPR2","MYC",-0.4483,-0.0014,0.9858,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. OE 28.3","CTNNB1",-0.4384,-0.1038,0.0694,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas sp. OE 28.3","MYC",-0.4384,0.0321,0.6348,FALSE,TRUE,"novel",FALSE
+"s  Candidatus Planktophila sulfonica","CTNNB1",-0.4213,-0.0295,0.6642,FALSE,TRUE,"novel",FALSE
+"s  Candidatus Planktophila sulfonica","MYC",-0.4213,0.0173,0.8063,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas panacisoli","CTNNB1",-0.4206,-0.0775,0.1909,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas panacisoli","MYC",-0.4206,0.0274,0.6869,FALSE,TRUE,"novel",FALSE
+"s  Mycolicibacterium phocaicum","MYC",-0.3962,-0.0271,0.6905,FALSE,TRUE,"novel",FALSE
+"s  Aurantimicrobium photophilum","CTNNB1",-0.3919,-0.0345,0.6056,FALSE,TRUE,"novel",FALSE
+"s  Aurantimicrobium photophilum","MYC",-0.3919,0.0066,0.9291,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. Adler-ghost","CTNNB1",-0.3897,-0.0719,0.2291,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. Adler-ghost","MYC",-0.3897,0.0209,0.7632,FALSE,TRUE,"novel",FALSE
+"s  Rhodoluna limnophila","CTNNB1",-0.3816,-0.016,0.8214,FALSE,TRUE,"novel",FALSE
+"s  Rhodoluna limnophila","MYC",-0.3816,-0.0026,0.9731,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas stutzeri","MYC",-0.3796,-0.0763,0.199,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. JS-JIR-II-b4","CTNNB1",-0.379,-0.0539,0.3892,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. JS-JIR-II-b4","MYC",-0.379,0.0129,0.8556,FALSE,TRUE,"novel",FALSE
+"s  Candidatus Planktophila dulcis","CTNNB1",-0.3701,-0.0064,0.9301,FALSE,TRUE,"novel",FALSE
+"s  Candidatus Planktophila dulcis","MYC",-0.3701,0.0137,0.8487,FALSE,TRUE,"novel",FALSE
+"s  Rhodoluna lacicola","CTNNB1",-0.3636,-0.0152,0.8308,FALSE,TRUE,"novel",FALSE
+"s  Rhodoluna lacicola","MYC",-0.3636,-0.0081,0.914,FALSE,TRUE,"novel",FALSE
+"s  Pantoea agglomerans","CTNNB1",-0.3603,-0.0434,0.5036,FALSE,TRUE,"novel",FALSE
+"s  Pantoea agglomerans","MYC",-0.3603,-0.0397,0.5455,FALSE,TRUE,"novel",FALSE
+"s  Lactobacillus iners","CTNNB1",-0.3566,-0.0529,0.3994,FALSE,TRUE,"novel",FALSE
+"s  Lactobacillus iners","MYC",-0.3566,-0.0804,0.1721,FALSE,TRUE,"novel",FALSE
+"s  Candidatus Planktophila lacus","CTNNB1",-0.3559,-0.0942,0.1035,FALSE,TRUE,"novel",FALSE
+"s  Candidatus Planktophila lacus","MYC",-0.3559,-0.0299,0.6581,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. MWH-Aus1W21","CTNNB1",-0.3543,-0.0345,0.6051,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. MWH-Aus1W21","MYC",-0.3543,0.0163,0.8178,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter asymbioticus","CTNNB1",-0.3453,-0.0143,0.8415,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter asymbioticus","MYC",-0.3453,0.0029,0.9696,FALSE,TRUE,"novel",FALSE
+"s  Sphingorhabdus lacus","CTNNB1",-0.343,-0.0312,0.6452,FALSE,TRUE,"novel",FALSE
+"s  Sphingorhabdus lacus","MYC",-0.343,-0.0189,0.7863,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium sp. NML98-0116","CTNNB1",-0.3428,-0.058,0.3479,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium sp. NML98-0116","MYC",-0.3428,-0.0533,0.395,FALSE,TRUE,"novel",FALSE
+"s  Rothia dentocariosa","CTNNB1",-0.341,-0.0886,0.1281,FALSE,TRUE,"novel",FALSE
+"s  Rothia dentocariosa","MYC",-0.341,-0.0754,0.2051,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter difficilis","CTNNB1",-0.3343,-0.0302,0.6559,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter difficilis","MYC",-0.3343,-0.0046,0.9509,FALSE,TRUE,"novel",FALSE
+"s  Ramlibacter tataouinensis","CTNNB1",-0.3334,-0.1082,0.0569,FALSE,TRUE,"novel",FALSE
+"s  Ramlibacter tataouinensis","MYC",-0.3334,-0.0273,0.6883,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium matruchotii","CTNNB1",-0.3332,-0.0774,0.1914,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium matruchotii","MYC",-0.3332,-0.0221,0.7491,FALSE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","MYC",-0.3202,-0.0946,0.1022,FALSE,TRUE,"literature-supported",FALSE
+"s  Salmonella enterica","MYC",-0.3178,-0.1085,0.0563,FALSE,TRUE,"literature-supported",FALSE
+"s  Nocardioides sambongensis","CTNNB1",-0.3062,-0.0617,0.3136,FALSE,TRUE,"novel",FALSE
+"s  Nocardioides sambongensis","MYC",-0.3062,-0.0044,0.9529,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter necessarius","CTNNB1",-0.3021,-0.0388,0.5555,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter necessarius","MYC",-0.3021,-0.0137,0.8481,FALSE,TRUE,"novel",FALSE
+"s  Moraxella osloensis","MYC",-0.295,-0.1003,0.0808,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas fluorescens","CTNNB1",-0.2901,-0.1047,0.0666,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas fluorescens","MYC",-0.2901,-0.0759,0.2019,FALSE,TRUE,"novel",FALSE
+"s  Fluviibacter phosphoraccumulans","CTNNB1",-0.2881,-0.0787,0.1834,FALSE,TRUE,"novel",FALSE
+"s  Fluviibacter phosphoraccumulans","MYC",-0.2881,-0.0215,0.7555,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium kroppenstedtii","MYC",-0.2873,-0.1027,0.0728,FALSE,TRUE,"novel",FALSE
+"s  Leptolyngbya sp. 7M","MYC",-0.2843,-0.0823,0.1611,FALSE,TRUE,"novel",FALSE
+"s  Actinomyces oris","CTNNB1",-0.2824,-0.1039,0.0692,FALSE,TRUE,"novel",FALSE
+"s  Actinomyces oris","MYC",-0.2824,-0.0355,0.5955,FALSE,TRUE,"novel",FALSE
+"s  Tepidimonas taiwanensis","CTNNB1",-0.2751,-0.0914,0.1152,FALSE,TRUE,"novel",FALSE
+"s  Tepidimonas taiwanensis","MYC",-0.2751,-0.025,0.7159,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas sp. FARSPH","CTNNB1",-0.2743,-0.0769,0.1947,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas sp. FARSPH","MYC",-0.2743,-0.0288,0.6717,FALSE,TRUE,"novel",FALSE
+"s  Corynebacterium coyleae","CTNNB1",-0.2685,-0.1062,0.0623,FALSE,TRUE,"novel",FALSE
+"s  Streptococcus thermophilus","CTNNB1",-0.2681,-0.1054,0.0646,FALSE,TRUE,"literature-supported",FALSE
+"s  Streptococcus thermophilus","MYC",-0.2681,-0.0341,0.6103,FALSE,TRUE,"literature-supported",FALSE
+"s  Pseudomonas putida","MYC",-0.2674,-0.1049,0.0661,FALSE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","MYC",-0.2639,-0.0584,0.3442,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas azotoformans","CTNNB1",-0.2624,0.0289,0.671,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas azotoformans","MYC",-0.2624,0.0217,0.7548,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas azotoformans","CCND1",-0.2624,-0.1077,0.0582,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas aeruginosa","MYC",-0.2555,-0.1061,0.0624,FALSE,TRUE,"novel",FALSE
+"s  Hydrogenophaga sp. NH-16","CTNNB1",-0.2402,-0.1087,0.0558,FALSE,TRUE,"novel",FALSE
+"s  Hydrogenophaga sp. NH-16","MYC",-0.2402,-0.0446,0.4905,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas fragi","CTNNB1",-0.2393,0.0496,0.4326,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas fragi","MYC",-0.2393,0.0927,0.1101,FALSE,TRUE,"novel",FALSE
+"s  Pseudomonas fragi","CCND1",-0.2393,-0.0948,0.1017,FALSE,TRUE,"novel",FALSE
+"s  Escherichia marmotae","CTNNB1",-0.2367,0.0342,0.6088,FALSE,TRUE,"novel",FALSE
+"s  Escherichia marmotae","MYC",-0.2367,0.0341,0.6099,FALSE,TRUE,"novel",FALSE
+"s  Streptococcus gordonii","CTNNB1",-0.2237,-0.1085,0.0562,FALSE,TRUE,"literature-supported",FALSE
+"s  Streptococcus gordonii","MYC",-0.2237,-0.0547,0.382,FALSE,TRUE,"literature-supported",FALSE
+"s  Polynucleobacter sp. MWH-S4W17","CTNNB1",-0.2236,-0.0943,0.1032,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. MWH-S4W17","MYC",-0.2236,0.0116,0.872,FALSE,TRUE,"novel",FALSE
+"s  Polynucleobacter sp. MWH-S4W17","CCND1",-0.2236,-0.0721,0.2274,FALSE,TRUE,"novel",FALSE
+"s  Porphyrobacter sp. GA68","MYC",-0.2199,-0.091,0.1168,FALSE,TRUE,"novel",FALSE
+"s  Escherichia coli","CTNNB1",-0.2167,-0.013,0.8553,FALSE,TRUE,"novel",FALSE
+"s  Escherichia coli","MYC",-0.2167,-0.0441,0.4965,FALSE,TRUE,"novel",FALSE
+"s  Methylorubrum populi","CTNNB1",-0.2147,-0.111,0.0504,FALSE,TRUE,"novel",FALSE
+"s  Methylorubrum populi","CCND1",-0.2147,-0.1091,0.0548,FALSE,TRUE,"novel",FALSE
+"s  Anaerococcus prevotii","CTNNB1",-0.2113,-0.0546,0.3835,FALSE,TRUE,"novel",FALSE
+"s  Anaerococcus prevotii","MYC",-0.2113,-0.0963,0.0955,FALSE,TRUE,"novel",FALSE
+"s  Escherichia fergusonii","CTNNB1",-0.2062,0.0108,0.8823,FALSE,TRUE,"novel",FALSE
+"s  Escherichia fergusonii","MYC",-0.2062,0.0018,0.9814,FALSE,TRUE,"novel",FALSE
+"s  Escherichia fergusonii","CCND1",-0.2062,-0.0856,0.1424,FALSE,TRUE,"novel",FALSE
+"s  Sphingomonas alpina","MYC",-0.2048,-0.0823,0.1611,FALSE,TRUE,"novel",FALSE
+"s  Prevotella melaninogenica","CTNNB1",-0.2045,-0.0622,0.31,FALSE,TRUE,"novel",FALSE
+"s  Prevotella melaninogenica","MYC",-0.2045,-0.0514,0.4153,FALSE,TRUE,"novel",FALSE
+"s  Gardnerella vaginalis","CTNNB1",-0.2,0.0044,0.9532,FALSE,TRUE,"novel",FALSE
+"s  Gardnerella vaginalis","MYC",-0.2,-0.046,0.4736,FALSE,TRUE,"novel",FALSE
+"s  Klebsiella pneumoniae","CTNNB1",0.2075,-0.1025,0.0731,FALSE,TRUE,"novel",FALSE
+"s  Klebsiella pneumoniae","CCND1",0.2075,-0.0073,0.9232,FALSE,TRUE,"novel",FALSE
+"s  Priestia megaterium","CTNNB1",0.2576,-0.0607,0.3222,FALSE,TRUE,"novel",FALSE
+"s  Priestia megaterium","MYC",0.2576,-0.0732,0.2197,FALSE,TRUE,"novel",FALSE

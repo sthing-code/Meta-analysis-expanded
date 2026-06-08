@@ -1,0 +1,31 @@
+"bacterium_clean","gene","r_primary","r","q","sig_downstream","sig_primary","evidence","upper_right"
+"s  Priestia megaterium","MAPK1",0.2166,0.105,0.3822,FALSE,TRUE,"novel",TRUE
+"s  Priestia megaterium","MAPK3",0.2166,0.1613,0.1323,FALSE,TRUE,"novel",TRUE
+"s  Priestia megaterium","KRAS",0.2166,0.1289,0.2655,FALSE,TRUE,"novel",TRUE
+"s  Clostridium botulinum","MAPK1",-0.2926,-0.315,5e-04,TRUE,TRUE,"novel",FALSE
+"s  Clostridium botulinum","KRAS",-0.2926,-0.2432,0.012,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","MAPK1",-0.2771,-0.4724,0,TRUE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","KRAS",-0.2771,-0.3786,0,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","MAPK1",-0.2126,-0.2493,0.0095,TRUE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","KRAS",-0.2126,-0.2127,0.0344,TRUE,TRUE,"novel",FALSE
+"s  Cutibacterium modestum","KRAS",-0.1825,-0.2105,0.0373,TRUE,FALSE,"novel",FALSE
+"s  Moraxella osloensis","MAPK1",-0.1783,-0.2545,0.0078,TRUE,FALSE,"novel",FALSE
+"s  Moraxella osloensis","KRAS",-0.1783,-0.2057,0.0425,TRUE,FALSE,"novel",FALSE
+"s  Sphingomonas melonis","MAPK1",-0.1641,-0.4794,0,TRUE,FALSE,"novel",FALSE
+"s  Sphingomonas melonis","KRAS",-0.1641,-0.3836,0,TRUE,FALSE,"novel",FALSE
+"s  Clostridium botulinum","MAPK3",-0.2926,-0.1065,0.3808,FALSE,TRUE,"novel",FALSE
+"s  Gordonia polyisoprenivorans","MAPK3",-0.2771,-0.08,0.5457,FALSE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","MAPK1",-0.2292,0.0536,0.707,FALSE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","MAPK3",-0.2292,0.0171,0.9197,FALSE,TRUE,"novel",FALSE
+"s  Halomonas sp. JS92-SW72","KRAS",-0.2292,0.0033,0.9844,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus epidermidis","MAPK1",-0.2129,0.0712,0.5965,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus epidermidis","MAPK3",-0.2129,-0.1839,0.0797,FALSE,TRUE,"novel",FALSE
+"s  Staphylococcus epidermidis","KRAS",-0.2129,-0.0429,0.7394,FALSE,TRUE,"novel",FALSE
+"s  Pasteurella multocida","MAPK3",-0.2126,-0.0201,0.8994,FALSE,TRUE,"novel",FALSE
+"s  Klebsiella pneumoniae","MAPK1",-0.1836,0.1016,0.3991,FALSE,FALSE,"literature-supported",FALSE
+"s  Klebsiella pneumoniae","MAPK3",-0.1836,0.0456,0.7322,FALSE,FALSE,"literature-supported",FALSE
+"s  Klebsiella pneumoniae","KRAS",-0.1836,0.0055,0.9824,FALSE,FALSE,"literature-supported",FALSE
+"s  Cutibacterium modestum","MAPK1",-0.1825,-0.1989,0.051,FALSE,FALSE,"novel",FALSE
+"s  Cutibacterium modestum","MAPK3",-0.1825,0.0073,0.9754,FALSE,FALSE,"novel",FALSE
+"s  Moraxella osloensis","MAPK3",-0.1783,-0.1094,0.3671,FALSE,FALSE,"novel",FALSE
+"s  Sphingomonas melonis","MAPK3",-0.1641,-0.052,0.7138,FALSE,FALSE,"novel",FALSE
